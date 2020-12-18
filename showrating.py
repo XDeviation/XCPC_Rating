@@ -18,6 +18,7 @@ for i in now:
         i['rating'],
     ))
 print("|Rank|Name|Rating|")
+print("| ---- | ---- | ---- |")
 team.sort(key=takerank, reverse=True)
 rank = 1
 for i in team:
