@@ -5,7 +5,7 @@ from tinydb.operations import add, decrement, set
 
 
 def takerank(x):
-    return (int)(x[1])
+    return (int)(x[2])
 
 
 db = TinyDB('data/list.json', indent=4)
@@ -15,12 +15,13 @@ team = []
 for i in now:
     team.append((
         i['chname'],
+        i['chschool'],
         i['rating'],
     ))
-print("|Rank|Name|Rating|")
-print("| ---- | ---- | ---- |")
+print("| Rank | School | Name | Rating |")
+print("| ---- | ---- | ---- | ---- |")
 team.sort(key=takerank, reverse=True)
 rank = 1
 for i in team:
-    print(f"|{rank}|{i[0]}|{i[1]}|")
+    print(f"| {rank} | {i[1]} | {i[0]} | {i[2]} |")
     rank += 1
