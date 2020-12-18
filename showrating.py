@@ -17,6 +17,9 @@ for i in now:
         i['chname'],
         i['rating'],
     ))
+print("|Rank|Name|Rating|")
 team.sort(key=takerank, reverse=True)
+rank = 1
 for i in team:
-    print(f"{i[0]} {i[1]}")
+    print(f"|{rank}|{i[0]}|{i[1]}|")
+    rank += 1

@@ -5,6 +5,15 @@ from tinydb.operations import add, decrement, set
 import json
 import sys
 import math
+import logging
+
+logger = logging.getLogger(__name__)
+logging.basicConfig(
+    level=logging.INFO,
+    filename='./log/log.txt',
+    filemode='w',
+    format=
+    '%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s')
 
 
 class User():
@@ -45,6 +54,7 @@ class RatingCalculator():
         return left
 
     def calculate(self):
+        logger.info(f"Calculate seed")
         # Calculate seed
         for i in range(len(self.user_list)):
             self.user_list[i].seed = 1.0
@@ -53,6 +63,7 @@ class RatingCalculator():
                     self.user_list[i].seed += self.cal_p(
                         self.user_list[j], self.user_list[i])
             # print(self.user_list[i].seed)
+        logger.info(f"Calculate initial delta and sum_delta")
         # Calculate initial delta and sum_delta
         sum_delta = 0
         for user in self.user_list:
@@ -61,11 +72,13 @@ class RatingCalculator():
                                  math.sqrt(user.rank * user.seed), user) -
                  user.old_rating) / 2)
             sum_delta += user.delta
+        logger.info(f"Calculate first inc")
         # Calculate first inc
         inc = int(-sum_delta / len(self.user_list)) - 1
         for user in self.user_list:
             user.delta += inc
             # print(user.delta)
+        logger.info(f"Calculate second inc")
         # Calculate second inc
         self.user_list = sorted(self.user_list,
                                 key=lambda x: x.old_rating,
@@ -76,6 +89,7 @@ class RatingCalculator():
         for i in range(s):
             sum_s += self.user_list[i].delta
         inc = min(max(int(-sum_s / s), -10), 0)
+        logger.info(f"Calculate new rating")
         # Calculate new rating
         for user in self.user_list:
             user.delta += inc
@@ -91,6 +105,7 @@ teamdata = Query()
 file = input()
 f = open(file, 'r')
 ranklist = f.read().split('\n')
+logger.info(f"{file} start")
 # print(ranklist)
 calculator = RatingCalculator()
 last_idx = 0
@@ -138,6 +153,8 @@ for team in ranklist:
 
 calculator.calculate()
 for i in range(len(ranklist) - 1):
+    if i % 100 == 0:
+        logger.info(f"Calculate new rating {i} ~ {i+99}")
     teamlist = ranklist[i].split('\t')
     nowteam = calculator.user_list[i]
     db.update(
@@ -146,7 +163,7 @@ for i in range(len(ranklist) - 1):
         & (teamdata.chschool == teamlist[1]),
     )
     db.update(
-        add('history', [f"{file}"]),
+        add('history', [f"{file[5:]}"]),
         (teamdata.chname == teamlist[0])
         & (teamdata.chschool == teamlist[1]),
     )

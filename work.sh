@@ -1,5 +1,9 @@
-echo Xiaomi
-python3 rating.py > change/ICPC2020Xiaomi < contest/ICPC2020Xiaomi
+echo XiaomiBefore1
+python3 rating.py > change/ICPC2020XiaomiBefore1 < contest/ICPC2020XiaomiBefore1
+echo XiaomiBefore2
+python3 rating.py > change/ICPC2020XiaomiBefore2 < contest/ICPC2020XiaomiBefore2
+echo XiaomiFinal
+python3 rating.py > change/ICPC2020XiaomiFinal < contest/ICPC2020XiaomiFinal
 echo Shanghai
 python3 rating.py > change/ICPC2020Shanghai < contest/ICPC2020Shanghai
 echo Final
