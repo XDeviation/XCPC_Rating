@@ -1,1 +1,26 @@
-0xCCCCCCCC 零叉八C
+# TODO
+{
+    True: "零叉八C",
+    Fake:[
+        "0xCCCCCCCC"
+    ]
+}
+{
+    True: "零叉八C",
+    Fake:[
+        "0xCCCCCCCC"
+    ]
+}
+{
+    True: "队长说ghs不能太明显",
+    Fake:[
+        "队长说ghs不要太明显"
+    ]
+}
+{
+    True: "吾有一數。名之曰「誒」。",
+    Fake:[
+        "吾有一數，名之曰「誒」。"
+    ]
+}
+ 

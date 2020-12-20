@@ -1,12 +1,12 @@
-2020-12-21 02:08:36,779 - rating.py[line:108] - INFO: data/ICPC2020Nanjing start
-2020-12-21 02:09:32,978 - rating.py[line:57] - INFO: Calculate seed
-2020-12-21 02:09:33,365 - rating.py[line:66] - INFO: Calculate initial delta and sum_delta
-2020-12-21 02:09:35,861 - rating.py[line:75] - INFO: Calculate first inc
-2020-12-21 02:09:35,861 - rating.py[line:81] - INFO: Calculate second inc
-2020-12-21 02:09:35,861 - rating.py[line:92] - INFO: Calculate new rating
-2020-12-21 02:09:35,861 - rating.py[line:157] - INFO: Calculate new rating 0 ~ 99
-2020-12-21 02:09:56,130 - rating.py[line:157] - INFO: Calculate new rating 100 ~ 199
-2020-12-21 02:10:13,619 - rating.py[line:157] - INFO: Calculate new rating 200 ~ 299
-2020-12-21 02:10:29,322 - rating.py[line:157] - INFO: Calculate new rating 300 ~ 399
-2020-12-21 02:10:45,015 - rating.py[line:157] - INFO: Calculate new rating 400 ~ 499
-2020-12-21 02:11:01,035 - rating.py[line:157] - INFO: Calculate new rating 500 ~ 599
+2020-12-21 03:03:33,972 - rating.py[line:108] - INFO: data/ICPC2020Nanjing start
+2020-12-21 03:05:14,872 - rating.py[line:57] - INFO: Calculate seed
+2020-12-21 03:05:15,313 - rating.py[line:66] - INFO: Calculate initial delta and sum_delta
+2020-12-21 03:05:19,653 - rating.py[line:75] - INFO: Calculate first inc
+2020-12-21 03:05:19,655 - rating.py[line:81] - INFO: Calculate second inc
+2020-12-21 03:05:19,655 - rating.py[line:92] - INFO: Calculate new rating
+2020-12-21 03:05:19,657 - rating.py[line:157] - INFO: Calculate new rating 0 ~ 99
+2020-12-21 03:05:52,550 - rating.py[line:157] - INFO: Calculate new rating 100 ~ 199
+2020-12-21 03:06:35,572 - rating.py[line:157] - INFO: Calculate new rating 200 ~ 299
+2020-12-21 03:07:07,961 - rating.py[line:157] - INFO: Calculate new rating 300 ~ 399
+2020-12-21 03:07:39,940 - rating.py[line:157] - INFO: Calculate new rating 400 ~ 499
+2020-12-21 03:08:14,479 - rating.py[line:157] - INFO: Calculate new rating 500 ~ 599
