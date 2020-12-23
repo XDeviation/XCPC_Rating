@@ -7,7 +7,7 @@ import random
 db = TinyDB('data/list.json', indent=4)
 teamdata = Query()
 
-file = 'teams/2020ICPCNanjing'
+file = 'teams/2020ICPCJinan'
 f = open(file, 'r')
 ranklist = f.read().split('\n')
 for team in ranklist:
@@ -15,38 +15,39 @@ for team in ranklist:
     # print(data)
     l = len(data)
     if l > 5:
-        en = ''
-        for i in range(2, l - 4):
-            en = en + data[i] + ' '
-        en = en[0:len(en) - 1]
+        teamname = ''
+        for i in range(2, l - 6):
+            teamname = teamname + data[i]
+        if teamname[0] == '☆':
+            teamname = teamname[1:]
+        # print(data[1], teamname, data[-6], data[-4], data[-2])
+
         nowteam = db.search((teamdata.chschool == data[1])
-                            & (teamdata.chname == data[-4]))
+                            & (teamdata.chname == teamname))
         if len(nowteam) == 0:
             db.insert({
-                'chname': f"{data[-4]}",
-                'enname': f"{en}",
+                'chname': f"{teamname}",
+                'enname': f"",
                 'chschool': f"{data[1]}",
                 'enschool': "",
                 'rating': 1500,
                 'members': [
-                    data[-3],
+                    data[-6],
+                    data[-4],
                     data[-2],
-                    data[-1],
                 ],
                 'history': [],
                 'bestrank': 65536,
             })
-            print(data[1], en, data[-4], data[-3], data[-2], data[-1])
+            # print(data[1], en, data[-4], data[-3], data[-2], data[-1])
+            print(data[1], teamname, data[-6], data[-4], data[-2])
+
         else:
             db.update(
-                add('members', [
-                    data[-3],
+                set('members', [
+                    data[-6],
+                    data[-4],
                     data[-2],
-                    data[-1],
                 ]),
-                (teamdata.chschool == data[1]) & (teamdata.chname == data[-4]),
-            )
-            db.update(
-                set('enname', en),
-                (teamdata.chschool == data[1]) & (teamdata.chname == data[-4]),
+                (teamdata.chschool == data[1]) & (teamdata.chname == teamname),
             )

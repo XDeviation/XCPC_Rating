@@ -12,7 +12,7 @@ def takerank(x):
     return (int)(x[2])
 
 
-file = 'teams/2020ICPCNanjing'
+file = 'teams/2020ICPCJinan'
 guessteam = []
 f = open(file, 'r')
 ranklist = f.read().split('\n')
@@ -21,8 +21,13 @@ for team in ranklist:
     # print(data)
     l = len(data)
     if l > 5:
+        teamname = ''
+        for i in range(2, l - 6):
+            teamname = teamname + data[i]
+        if teamname[0] == '☆':
+            teamname = teamname[1:]
         nowteam = db.search((teamdata.chschool == data[1])
-                            & (teamdata.chname == data[-4]))
+                            & (teamdata.chname == teamname))
         if len(nowteam) == 0:
             pass
         else:
