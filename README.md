@@ -1,6 +1,8 @@
 # XCPC_Rating
 一个计算所有XCPC队伍Rating的项目
 
+
+
 ## 使用说明
 - finalrating 就是截至目前所有队伍的 rating
 - getrank.py 是牛客的爬虫
