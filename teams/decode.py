@@ -6,7 +6,7 @@ def isDigit(x):
         return False
 
 
-file = '2020ICPCJinan'
+file = '2020ICPCShanghai'
 f = open(file, 'r')
 ranklist = f.read().split('\n')
 s = ""
