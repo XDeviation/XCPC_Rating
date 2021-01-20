@@ -1,0 +1,250 @@
+from __future__ import absolute_import
+from typing import List, Dict, Any, Optional
+from tinydb import TinyDB, Query
+from tinydb.operations import add, decrement, set
+import json
+import sys
+import math
+import logging
+import random
+from itertools import chain
+from pypinyin import pinyin, Style
+
+logger = logging.getLogger(__name__)
+logging.basicConfig(
+    level=logging.INFO,
+    filename='../log/log.txt',
+    filemode='a',
+    format=
+    '%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s')
+
+
+class User():
+    def __init__(self, rank, old_rating, handle='', official_new_rating=0):
+        self.rank = float(rank)
+        self.old_rating = int(old_rating)
+        self.seed = 1.0
+        self.handle = str(handle)
+        # official_new_rating: used for validating result
+        self.official_new_rating = int(official_new_rating)
+
+
+class RatingCalculator():
+    def __init__(self):
+        self.user_list = []
+
+    def cal_p(self, user_a, user_b):
+        return 1.0 / (1.0 +
+                      pow(10, (user_b.old_rating - user_a.old_rating) / 400.0))
+
+    def get_ex_seed(self, user_list, rating, own_user):
+        ex_user = User(0.0, rating)
+        result = 1.0
+        for user in user_list:
+            if user != own_user:
+                result += self.cal_p(user, ex_user)
+        return result
+
+    def cal_rating(self, user_list, rank, user):
+        left = 1
+        right = 8000
+        while right - left > 1:
+            mid = int((left + right) / 2)
+            if self.get_ex_seed(user_list, mid, user) < rank:
+                right = mid
+            else:
+                left = mid
+        return left
+
+    def calculate(self):
+        logger.info(f"Calculate seed")
+        # Calculate seed
+        for i in range(len(self.user_list)):
+            self.user_list[i].seed = 1.0
+            for j in range(len(self.user_list)):
+                if i != j:
+                    self.user_list[i].seed += self.cal_p(
+                        self.user_list[j], self.user_list[i])
+            # print(self.user_list[i].seed)
+        logger.info(f"Calculate initial delta and sum_delta")
+        # Calculate initial delta and sum_delta
+        sum_delta = 0
+        for user in self.user_list:
+            user.delta = int(
+                (self.cal_rating(self.user_list,
+                                 math.sqrt(user.rank * user.seed), user) -
+                 user.old_rating) / 2)
+            sum_delta += user.delta
+        logger.info(f"Calculate first inc")
+        # Calculate first inc
+        inc = int(-sum_delta / len(self.user_list)) - 1
+        for user in self.user_list:
+            user.delta += inc
+            # print(user.delta)
+        logger.info(f"Calculate second inc")
+        # Calculate second inc
+        self.user_list = sorted(self.user_list,
+                                key=lambda x: x.old_rating,
+                                reverse=True)
+        s = min(len(self.user_list),
+                int(4 * round(math.sqrt(len(self.user_list)))))
+        sum_s = 0
+        for i in range(s):
+            sum_s += self.user_list[i].delta
+        inc = min(max(int(-sum_s / s), -10), 0)
+        logger.info(f"Calculate new rating")
+        # Calculate new rating
+        for user in self.user_list:
+            user.delta += inc
+            user.new_rating = user.old_rating + user.delta
+            # print(user.new_rating)
+        self.user_list = sorted(self.user_list,
+                                key=lambda x: x.rank,
+                                reverse=False)
+
+
+def oldwork():
+    db = TinyDB('../data/list.json', indent=4)
+    teamdata = Query()
+    file = input()
+    f = open(file, 'r')
+    ranklist = f.read().split('\n')
+    logger.info(f"{file} start")
+    calculator = RatingCalculator()
+    for team in ranklist:
+        if team == '':
+            pass
+        else:
+            teamlist = team.split('\t')
+            teamindb = db.search((teamdata.chname == teamlist[0])
+                                 & (teamdata.chschool == teamlist[1]))
+            if len(teamindb) == 0:
+                db.insert({
+                    'chname': f"{teamlist[0]}",
+                    'enname': "",
+                    'chschool': f"{teamlist[1]}",
+                    'enschool': "",
+                    'rating': 1500,
+                    'members': [],
+                    'history': [],
+                    'bestrank': (int)(teamlist[2]),
+                })
+                calculator.user_list.append(
+                    User(
+                        rank=teamlist[2],
+                        old_rating=1500,
+                        handle=teamlist[0],
+                    ))
+            else:
+                nowteam = teamindb[0]
+                # print(nowteam)
+                if (int)(teamlist[2]) < nowteam['bestrank']:
+                    db.update(
+                        set('bestrank', (int)(teamlist[2])),
+                        (teamdata.chname == teamlist[0])
+                        & (teamdata.chschool == teamlist[1]),
+                    )
+                calculator.user_list.append(
+                    User(
+                        rank=teamlist[2],
+                        old_rating=nowteam['rating'],
+                        handle=teamlist[0],
+                    ))
+    calculator.calculate()
+    for i in range(len(ranklist)):
+        if i % 100 == 0:
+            logger.info(f"Calculate new rating {i} ~ {i+99}")
+        teamlist = ranklist[i].split('\t')
+        nowteam = calculator.user_list[i]
+        db.update(
+            set('rating', nowteam.new_rating),
+            (teamdata.chname == teamlist[0])
+            & (teamdata.chschool == teamlist[1]),
+        )
+        db.update(
+            add('history', [f"{file[5:]}"]),
+            (teamdata.chname == teamlist[0])
+            & (teamdata.chschool == teamlist[1]),
+        )
+        print(f"{nowteam.handle} {nowteam.old_rating} -> {nowteam.new_rating}")
+
+
+def to_pinyin(s):
+    return ''.join(chain.from_iterable(pinyin(s, style=Style.TONE3)))
+
+
+def newwork():
+    db = TinyDB('../data/data.json', indent=4)
+    teamdata = Query()
+    file = '../data/CCPC2020Girl.json'
+    f = open(file, 'r')
+    ranklist = f.read()
+    text = json.loads(ranklist)
+
+    logger.info(f"{file} start")
+    calculator = RatingCalculator()
+
+    for team in text:
+        members = team['members']
+        members.sort(key=to_pinyin)
+        # print(members)
+        nowteam = db.search(teamdata.members.all(members))
+        nowrank = (int)(team['place']['all'])
+        nowrace = {
+            'contest_name': 'CCPC2020Girl',
+            'team_name': team['name'],
+            'rank': nowrank,
+        }
+
+        if len(nowteam) == 0:
+            logger.info(f"Add new team : {team['name']}")
+            db.insert({
+                'chschool': f"{team['organization']}",
+                'enschool': "",
+                'rating': 1500,
+                'members': members,
+                'history': [nowrace],
+                'bestrank': (int)(nowrank),
+            })
+            calculator.user_list.append(
+                User(
+                    rank=nowrank,
+                    old_rating=1500,
+                    handle=members,
+                ))
+        else:
+            logger.info(f"Update team : {team['name']}")
+            if nowrank < nowteam[0]['bestrank']:
+                db.update(
+                    set('bestrank', nowrank),
+                    (teamdata.members == members),
+                )
+            db.update(
+                add('history', [nowrace]),
+                (teamdata.members == members),
+            )
+            calculator.user_list.append(
+                User(
+                    rank=nowrank,
+                    old_rating=nowteam[0]['rating'],
+                    handle=members,
+                ))
+
+    logger.info(f"Calculate stated")
+    calculator.calculate()
+    logger.info(f"Calculate finished")
+
+    for i in range(len(text)):
+        if i % 100 == 0:
+            logger.info(f"Update new rating {i} ~ {i+99}")
+        nowteam = calculator.user_list[i]
+        teamname = text[i]['members']
+        print(db.search(teamdata.members.all(teamname)), teamname)
+        db.update(
+            set('rating', nowteam.new_rating),
+            (teamdata.members == teamname),
+        )
+        print(f"{nowteam.handle} {nowteam.old_rating} -> {nowteam.new_rating}")
+
+
+newwork()
