@@ -239,7 +239,6 @@ def newwork():
             logger.info(f"Update new rating {i} ~ {i+99}")
         nowteam = calculator.user_list[i]
         teamname = text[i]['members']
-        print(db.search(teamdata.members.all(teamname)), teamname)
         db.update(
             set('rating', nowteam.new_rating),
             (teamdata.members == teamname),
