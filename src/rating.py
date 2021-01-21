@@ -13,7 +13,7 @@ from pypinyin import pinyin, Style
 logger = logging.getLogger(__name__)
 logging.basicConfig(
     level=logging.INFO,
-    filename='../log/log.txt',
+    filename='log/log.txt',
     filemode='a',
     format=
     '%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s')
@@ -174,9 +174,9 @@ def to_pinyin(s):
 
 
 def newwork():
-    db = TinyDB('../data/data.json', indent=4)
+    db = TinyDB('data/data.json', indent=4)
     teamdata = Query()
-    file = '../data/CCPC2020Girl.json'
+    file = input()
     f = open(file, 'r')
     ranklist = f.read()
     text = json.loads(ranklist)
@@ -191,7 +191,7 @@ def newwork():
         nowteam = db.search(teamdata.members.all(members))
         nowrank = (int)(team['place']['all'])
         nowrace = {
-            'contest_name': 'CCPC2020Girl',
+            'contest_name': file[8:].split('.')[0],
             'team_name': team['name'],
             'rank': nowrank,
         }

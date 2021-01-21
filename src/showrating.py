@@ -14,7 +14,7 @@ now = db.all()
 team = []
 for i in now:
     team.append((
-        i['chname'],
+        i['member'],
         i['chschool'],
         i['rating'],
     ))

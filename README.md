@@ -15,19 +15,18 @@
 - 也就是CodeForces的计算方式
 
 ## 参考数据（依照时间顺序）：
-- 2020小米ICPC邀请赛预选赛1 ICPC2020XiaomiBefore1
-- 2020小米ICPC邀请赛预选赛2 ICPC2020XiaomiBefore2
-- 2020小米ICPC邀请赛现场赛 ICPC2020XiaomiFinal
+- 2020CCPC女生专场 CCPC2020Girl
+- 2020CCPC秦皇岛站 CCPC2020Qinghuangdao
+- 2020CCPC威海站 CCPC2020Weihai
+- 2020CCPC绵阳站 CCPC2020Mianyang
+- 2020CCPC长春站 CCPC2020Changchun
+- 2020小米ICPC邀请赛 ICPC2020Xiaomi
 - 2020ICPC上海站 ICPC2020Shanghai
 - 2020ICPC南京站 ICPC2020Nanjing
-
-## 注意
-- 队伍的 ？ ！ 统一换成了半角符号
+- 2020ICPC济南站 ICPC2020Jinan
 
 ## TODO
 - ~~ccpc.io的爬虫~~
-- 微调队伍名字
-- 根据当场比赛的所有队伍计算排名（因为没有找到爬每场比赛的参赛队伍的手段）
 
 ## 声明
 - 所有数据（队伍排名，比赛赛况，参赛选手等）均来源于网络公开数据，如若侵犯个人隐私请直接提issue，会尽快处理。
