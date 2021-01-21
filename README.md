@@ -7,7 +7,7 @@
 - 每场比赛的 rank 数据存在 contest 下
 - 每场比赛之后的 rating 变化存在 change 下
 - 注意 rating 变化有先后顺序，详见下面的参考数据
-- change 文件夹下是每场比赛的rating变化
+- change 文件夹下是每场比赛的 rating 变化
 
 ## 计算方式：
 - 每支队伍初始rating为1500
