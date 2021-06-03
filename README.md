@@ -31,4 +31,4 @@
 
 ## 声明
 - 所有数据（队伍排名，比赛赛况，参赛选手等）均来源于网络公开数据，如若侵犯个人隐私请直接提issue，会尽快处理。
-- 本项目以加入[XCPCIO](https://github.com/XCPCIO)，需要更好看的Rating查询/变化页面请访问[该网址](https://rating.xcpcio.com/)
+- 本项目已加入[XCPCIO](https://github.com/XCPCIO)，需要更好看的Rating查询/变化页面请访问[该网址](https://rating.xcpcio.com/)
