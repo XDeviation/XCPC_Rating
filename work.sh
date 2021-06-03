@@ -14,5 +14,9 @@
 # python3 src/rating.py > change/ICPC2020Nanjing < menu/ICPC2020Nanjing
 # echo ICPC2020Jinan
 # python3 src/rating.py > change/ICPC2020Jinan < menu/ICPC2020Jinan
+echo ICPC2020Kunming
+python3 src/rating.py > change/ICPC2020Kunming < menu/ICPC2020Kunming
+echo CCPC2020Final
+python3 src/rating.py > change/CCPC2020Final < menu/CCPC2020Final
 echo Final
 python3 src/showrating.py > finalrating/README.md

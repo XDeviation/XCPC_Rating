@@ -18,39 +18,39 @@ def to_pinyin(s):
     return ''.join(chain.from_iterable(pinyin(s, style=Style.TONE3)))
 
 
-file = '../guess/ICPC2020Kunming'
+file = '../guess/CCPC2021Xiangtan'
 guessteam = []
 noincteam = []
 f = open(file, 'r')
 ranklist = f.read().split('\n')
 for team in ranklist:
-    data = team.split('\t')
+    data = team.split(' ')
     if len(data) > 1:
-        members = data[2:5]
+        members = data[3:6]
         members.sort(key=to_pinyin)
         # print(members)
-        if '打星' in data:
-            data[0] = '☆' + data[0]
+        if '*' in data:
+            data[1] = '☆' + data[1]
         nowteam = db.search(teamdata.members.all(members))
         if len(nowteam) == 0:
-            noincteam.append(data[0:5])
+            noincteam.append(data[1:6])
         else:
             # print(nowteam[0])
             i = nowteam[0]
             guessteam.append((
+                data[2],
                 data[1],
-                data[0],
                 i['rating'],
             ))
 guessteam.sort(key=takerank, reverse=True)
-print("ICPC2020Kunming Included")
+print("CCPC2021Xiangtan Included")
 print("| Rank | School | Name | Rating |")
 print("| ---- | ---- | ---- | ---- |")
 rank = 1
 for i in guessteam:
     print(f"| {rank} | {i[1]} | {i[0]} | {i[2]} |")
     rank += 1
-print("ICPC2020Kunming Not Included")
+print("CCPC2021Xiangtan Not Included")
 print("| School | Name |")
 for i in noincteam:
     print(f"| {i[0]} | {i[1]} |")

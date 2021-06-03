@@ -3430,3 +3430,963 @@
 2021-01-21 18:16:43,289 - rating.py[line:239] - INFO: Update new rating 300 ~ 399
 2021-01-21 18:16:56,019 - rating.py[line:239] - INFO: Update new rating 400 ~ 499
 2021-01-21 18:17:09,076 - rating.py[line:239] - INFO: Update new rating 500 ~ 599
+2021-06-03 18:45:22,425 - rating.py[line:184] - INFO: contest/ICPC2020Kunming.json start
+2021-06-03 18:45:23,205 - rating.py[line:184] - INFO: contest/CCPC2020Final.json start
+2021-06-03 18:46:40,253 - rating.py[line:184] - INFO: contest/ICPC2020Kunming.json start
+2021-06-03 18:46:40,284 - rating.py[line:216] - INFO: Update team : 三个顶俩
+2021-06-03 18:46:40,519 - rating.py[line:216] - INFO: Update team : 校门外歪脖树上的鸽子
+2021-06-03 18:46:40,658 - rating.py[line:216] - INFO: Update team : 无人之境
+2021-06-03 18:46:40,803 - rating.py[line:200] - INFO: Add new team : Continued Story
+2021-06-03 18:46:41,002 - rating.py[line:216] - INFO: Update team : Solitary Dream
+2021-06-03 18:46:41,292 - rating.py[line:216] - INFO: Update team : 艾斯易悠-都行
+2021-06-03 18:46:41,601 - rating.py[line:216] - INFO: Update team : 国科大退役老年观光团
+2021-06-03 18:46:41,959 - rating.py[line:216] - INFO: Update team : 让我踹踹
+2021-06-03 18:46:42,419 - rating.py[line:216] - INFO: Update team : 伊丽莎白
+2021-06-03 18:46:42,601 - rating.py[line:216] - INFO: Update team : 代码养生学
+2021-06-03 18:46:42,910 - rating.py[line:216] - INFO: Update team : 好丽友派
+2021-06-03 18:46:43,548 - rating.py[line:216] - INFO: Update team : 星辰闪耀
+2021-06-03 18:46:43,890 - rating.py[line:216] - INFO: Update team : 三只喵喵一锅汤
+2021-06-03 18:46:44,335 - rating.py[line:200] - INFO: Add new team : 行胜于言，不行就爬
+2021-06-03 18:46:44,618 - rating.py[line:200] - INFO: Add new team : 苍响
+2021-06-03 18:46:44,771 - rating.py[line:216] - INFO: Update team : Cirtrus
+2021-06-03 18:46:44,964 - rating.py[line:216] - INFO: Update team : 我不知道.png
+2021-06-03 18:46:45,429 - rating.py[line:216] - INFO: Update team : 赛博朋克2077
+2021-06-03 18:46:45,754 - rating.py[line:200] - INFO: Add new team : 师傅把妖怪抓走了
+2021-06-03 18:46:46,016 - rating.py[line:216] - INFO: Update team : 杭电十五队
+2021-06-03 18:46:46,348 - rating.py[line:200] - INFO: Add new team : 林加德
+2021-06-03 18:46:46,520 - rating.py[line:200] - INFO: Add new team : 人工智障
+2021-06-03 18:46:46,679 - rating.py[line:216] - INFO: Update team : 零叉八C
+2021-06-03 18:46:46,864 - rating.py[line:216] - INFO: Update team : 鸭傻惜
+2021-06-03 18:46:47,045 - rating.py[line:216] - INFO: Update team : Icdereap
+2021-06-03 18:46:47,236 - rating.py[line:200] - INFO: Add new team : 老师饿饿让让芙兰
+2021-06-03 18:46:47,514 - rating.py[line:200] - INFO: Add new team : 线性时间的支配者
+2021-06-03 18:46:47,708 - rating.py[line:216] - INFO: Update team : PTY的小迷妹
+2021-06-03 18:46:47,918 - rating.py[line:216] - INFO: Update team : 童话术士
+2021-06-03 18:46:48,264 - rating.py[line:200] - INFO: Add new team : 欺负人没有数理基础？
+2021-06-03 18:46:48,419 - rating.py[line:200] - INFO: Add new team : 饭点到
+2021-06-03 18:46:48,621 - rating.py[line:216] - INFO: Update team : Doge
+2021-06-03 18:46:48,912 - rating.py[line:200] - INFO: Add new team : 赤兔马
+2021-06-03 18:46:49,100 - rating.py[line:216] - INFO: Update team : 两级反转
+2021-06-03 18:46:49,458 - rating.py[line:216] - INFO: Update team : 奥德修斯之筏
+2021-06-03 18:46:49,671 - rating.py[line:216] - INFO: Update team : 我先放一盒卫生纸在这
+2021-06-03 18:46:49,892 - rating.py[line:200] - INFO: Add new team : 先wa两发再说
+2021-06-03 18:46:50,232 - rating.py[line:216] - INFO: Update team : 单推圣人惠
+2021-06-03 18:46:50,568 - rating.py[line:216] - INFO: Update team : SCAU_鬼火一响
+2021-06-03 18:46:50,755 - rating.py[line:216] - INFO: Update team : ZJUT11
+2021-06-03 18:46:51,093 - rating.py[line:216] - INFO: Update team : Felix Felicis
+2021-06-03 18:46:51,456 - rating.py[line:216] - INFO: Update team : 撒网摸鱼
+2021-06-03 18:46:51,702 - rating.py[line:216] - INFO: Update team : 最菜的小白菜
+2021-06-03 18:46:52,018 - rating.py[line:216] - INFO: Update team : 杭电七队
+2021-06-03 18:46:52,378 - rating.py[line:200] - INFO: Add new team : 删库跑路
+2021-06-03 18:46:52,547 - rating.py[line:216] - INFO: Update team : 大吉大利，晚上吃 mian();
+2021-06-03 18:46:53,103 - rating.py[line:216] - INFO: Update team : 蹦蹦炸弹
+2021-06-03 18:46:53,302 - rating.py[line:216] - INFO: Update team : 拿铁咖啡
+2021-06-03 18:46:53,622 - rating.py[line:200] - INFO: Add new team : 北邮负一队
+2021-06-03 18:46:53,786 - rating.py[line:216] - INFO: Update team : 图一乐
+2021-06-03 18:46:53,943 - rating.py[line:216] - INFO: Update team : 试炼者
+2021-06-03 18:46:54,100 - rating.py[line:216] - INFO: Update team : 常数抛光机
+2021-06-03 18:46:54,298 - rating.py[line:216] - INFO: Update team : FCT太难啦
+2021-06-03 18:46:54,446 - rating.py[line:200] - INFO: Add new team : 西西弗斯
+2021-06-03 18:46:54,603 - rating.py[line:216] - INFO: Update team : 明日之盛
+2021-06-03 18:46:54,810 - rating.py[line:216] - INFO: Update team : 阿凡提的小毛驴快跑
+2021-06-03 18:46:54,979 - rating.py[line:216] - INFO: Update team : 深不可测
+2021-06-03 18:46:55,140 - rating.py[line:216] - INFO: Update team : 源赖氏佐田
+2021-06-03 18:46:55,345 - rating.py[line:200] - INFO: Add new team : 玛珈山的朝阳
+2021-06-03 18:46:55,544 - rating.py[line:216] - INFO: Update team : 冰冰三元一个十元三个
+2021-06-03 18:46:55,688 - rating.py[line:200] - INFO: Add new team : 微格弗德字体研究院
+2021-06-03 18:46:55,853 - rating.py[line:216] - INFO: Update team : 马拉车拉马
+2021-06-03 18:46:56,052 - rating.py[line:216] - INFO: Update team : 玩具阿萨姆运载车
+2021-06-03 18:46:56,385 - rating.py[line:216] - INFO: Update team : 超高校级的打铁爆零
+2021-06-03 18:46:56,577 - rating.py[line:216] - INFO: Update team : 速七大师
+2021-06-03 18:46:56,713 - rating.py[line:200] - INFO: Add new team : 气态显卡
+2021-06-03 18:46:56,846 - rating.py[line:200] - INFO: Add new team : 第1226564个质数
+2021-06-03 18:46:56,985 - rating.py[line:200] - INFO: Add new team : 打比赛挂机两个半小时
+2021-06-03 18:46:57,164 - rating.py[line:216] - INFO: Update team : 芜湖摸鱼
+2021-06-03 18:46:57,321 - rating.py[line:216] - INFO: Update team : dlut11
+2021-06-03 18:46:57,628 - rating.py[line:216] - INFO: Update team : AC不如跳舞
+2021-06-03 18:46:57,911 - rating.py[line:216] - INFO: Update team : 队长女装就是女队了
+2021-06-03 18:46:58,105 - rating.py[line:216] - INFO: Update team : 欧文艾迪
+2021-06-03 18:46:58,267 - rating.py[line:216] - INFO: Update team : 一趴一躺一吃瓜
+2021-06-03 18:46:58,512 - rating.py[line:216] - INFO: Update team : 少壮不努力，老年观光团
+2021-06-03 18:46:58,730 - rating.py[line:216] - INFO: Update team : 叹为观止！
+2021-06-03 18:46:58,888 - rating.py[line:200] - INFO: Add new team : 魔法少女
+2021-06-03 18:46:59,066 - rating.py[line:216] - INFO: Update team : 竖起天线
+2021-06-03 18:46:59,261 - rating.py[line:200] - INFO: Add new team : 北师二队
+2021-06-03 18:46:59,438 - rating.py[line:216] - INFO: Update team : 悠锐卡
+2021-06-03 18:46:59,593 - rating.py[line:216] - INFO: Update team : 队友比赛时睡着了
+2021-06-03 18:46:59,972 - rating.py[line:216] - INFO: Update team : 阿瓦达啃大瓜
+2021-06-03 18:47:00,239 - rating.py[line:216] - INFO: Update team : 杭电三队
+2021-06-03 18:47:00,387 - rating.py[line:216] - INFO: Update team : 大白兔奶糖
+2021-06-03 18:47:00,544 - rating.py[line:200] - INFO: Add new team : 这场unrated
+2021-06-03 18:47:00,683 - rating.py[line:200] - INFO: Add new team : 呐，你也想要KiraKira吗？
+2021-06-03 18:47:00,842 - rating.py[line:200] - INFO: Add new team : 不Au不改名
+2021-06-03 18:47:01,046 - rating.py[line:216] - INFO: Update team : 宝键锋从磨砺出
+2021-06-03 18:47:01,195 - rating.py[line:200] - INFO: Add new team : 杭电十八队
+2021-06-03 18:47:01,359 - rating.py[line:216] - INFO: Update team : Keyb0ardInterrupt
+2021-06-03 18:47:01,497 - rating.py[line:216] - INFO: Update team : 诸神黄昏
+2021-06-03 18:47:01,696 - rating.py[line:216] - INFO: Update team : 说爆零就爆零
+2021-06-03 18:47:01,866 - rating.py[line:200] - INFO: Add new team : 开着邻居家的Toyota
+2021-06-03 18:47:02,069 - rating.py[line:216] - INFO: Update team : 三只蒟蒻
+2021-06-03 18:47:02,345 - rating.py[line:216] - INFO: Update team : 崂山啤酒酒花
+2021-06-03 18:47:02,476 - rating.py[line:216] - INFO: Update team : 谁在呼叫舰队
+2021-06-03 18:47:02,631 - rating.py[line:216] - INFO: Update team : 红鲤鱼与绿鲤鱼与驴
+2021-06-03 18:47:02,803 - rating.py[line:200] - INFO: Add new team : 哈尔冰工厂
+2021-06-03 18:47:02,972 - rating.py[line:216] - INFO: Update team : 三千
+2021-06-03 18:47:03,184 - rating.py[line:216] - INFO: Update team : 懂的都懂
+2021-06-03 18:47:03,325 - rating.py[line:216] - INFO: Update team : 就这么喜欢写代码咩？你这个小秃头
+2021-06-03 18:47:03,474 - rating.py[line:216] - INFO: Update team : 噔噔咚
+2021-06-03 18:47:03,650 - rating.py[line:216] - INFO: Update team : 小人物
+2021-06-03 18:47:03,911 - rating.py[line:200] - INFO: Add new team : 想去昆明看春天
+2021-06-03 18:47:04,051 - rating.py[line:200] - INFO: Add new team : 均衡教派
+2021-06-03 18:47:04,237 - rating.py[line:216] - INFO: Update team : 转眼间又在下雨
+2021-06-03 18:47:04,479 - rating.py[line:216] - INFO: Update team : 能混就混
+2021-06-03 18:47:04,735 - rating.py[line:216] - INFO: Update team : 逃脱华盛顿
+2021-06-03 18:47:04,990 - rating.py[line:216] - INFO: Update team : 炼金术士
+2021-06-03 18:47:05,127 - rating.py[line:216] - INFO: Update team : 摩天动物园
+2021-06-03 18:47:05,425 - rating.py[line:216] - INFO: Update team : 分个块，排个序
+2021-06-03 18:47:05,569 - rating.py[line:216] - INFO: Update team : 日常想不出队名
+2021-06-03 18:47:05,874 - rating.py[line:216] - INFO: Update team : 执笔人
+2021-06-03 18:47:06,033 - rating.py[line:216] - INFO: Update team : 死亡发际线
+2021-06-03 18:47:06,315 - rating.py[line:216] - INFO: Update team : 宇称不守恒
+2021-06-03 18:47:06,455 - rating.py[line:216] - INFO: Update team : 一笑奈何
+2021-06-03 18:47:06,593 - rating.py[line:216] - INFO: Update team : 别忘注释 freopen
+2021-06-03 18:47:06,738 - rating.py[line:216] - INFO: Update team : 黑铁矿工
+2021-06-03 18:47:06,989 - rating.py[line:216] - INFO: Update team : 想喝奶茶
+2021-06-03 18:47:07,199 - rating.py[line:200] - INFO: Add new team : big black mountain
+2021-06-03 18:47:07,337 - rating.py[line:216] - INFO: Update team : ZCMU-稻花香里说wa年
+2021-06-03 18:47:07,475 - rating.py[line:200] - INFO: Add new team : 我们写的代码都是诗
+2021-06-03 18:47:07,633 - rating.py[line:216] - INFO: Update team : Nku Ak Victory ICPC
+2021-06-03 18:47:08,000 - rating.py[line:216] - INFO: Update team : 我永远喜欢丁丁妹妹
+2021-06-03 18:47:08,164 - rating.py[line:216] - INFO: Update team : 11111111
+2021-06-03 18:47:08,553 - rating.py[line:200] - INFO: Add new team : 没思路
+2021-06-03 18:47:08,721 - rating.py[line:200] - INFO: Add new team : 星尘天下第一可爱
+2021-06-03 18:47:08,867 - rating.py[line:200] - INFO: Add new team : 扬帆社
+2021-06-03 18:47:09,035 - rating.py[line:216] - INFO: Update team : 丝滑拿铁
+2021-06-03 18:47:09,222 - rating.py[line:216] - INFO: Update team : 明日夜空哨戒班
+2021-06-03 18:47:09,543 - rating.py[line:200] - INFO: Add new team : 几何冲刺
+2021-06-03 18:47:09,748 - rating.py[line:216] - INFO: Update team : 蝴蝶
+2021-06-03 18:47:10,090 - rating.py[line:216] - INFO: Update team : 炼铜人
+2021-06-03 18:47:10,421 - rating.py[line:216] - INFO: Update team : 非自然AC
+2021-06-03 18:47:10,570 - rating.py[line:200] - INFO: Add new team : 有备而来队
+2021-06-03 18:47:10,790 - rating.py[line:216] - INFO: Update team : 锅锅锅
+2021-06-03 18:47:11,074 - rating.py[line:216] - INFO: Update team : 我不是说了码力要平均值吗？！
+2021-06-03 18:47:11,230 - rating.py[line:216] - INFO: Update team : 南方科技大学-苏黎世
+2021-06-03 18:47:11,383 - rating.py[line:216] - INFO: Update team : 鐭鋓鐭鋓鐭
+2021-06-03 18:47:11,538 - rating.py[line:216] - INFO: Update team : 过河卒子
+2021-06-03 18:47:11,721 - rating.py[line:200] - INFO: Add new team : 它怎么WA了呢
+2021-06-03 18:47:11,923 - rating.py[line:216] - INFO: Update team : 哇咔咔哈哈
+2021-06-03 18:47:12,271 - rating.py[line:216] - INFO: Update team : 希望气球别出事
+2021-06-03 18:47:12,420 - rating.py[line:216] - INFO: Update team : 宝山挖掘机
+2021-06-03 18:47:12,629 - rating.py[line:200] - INFO: Add new team : T.E.A
+2021-06-03 18:47:12,811 - rating.py[line:200] - INFO: Add new team : 键键变秃
+2021-06-03 18:47:13,074 - rating.py[line:216] - INFO: Update team : sinsincos
+2021-06-03 18:47:13,244 - rating.py[line:216] - INFO: Update team : 冲鸭冲鸭
+2021-06-03 18:47:13,441 - rating.py[line:200] - INFO: Add new team : 我觉得群名就很好
+2021-06-03 18:47:13,614 - rating.py[line:216] - INFO: Update team : 三只小猪呼噜噜
+2021-06-03 18:47:13,915 - rating.py[line:216] - INFO: Update team : 已经没有什么好害怕的
+2021-06-03 18:47:14,213 - rating.py[line:200] - INFO: Add new team : 南方科技大学-沙夫豪森
+2021-06-03 18:47:14,420 - rating.py[line:216] - INFO: Update team : 水题终结者
+2021-06-03 18:47:14,588 - rating.py[line:200] - INFO: Add new team : 啊这
+2021-06-03 18:47:14,741 - rating.py[line:200] - INFO: Add new team : 波子汽水
+2021-06-03 18:47:14,937 - rating.py[line:216] - INFO: Update team : 丘丘人保护协会
+2021-06-03 18:47:15,106 - rating.py[line:200] - INFO: Add new team : 从未过了她
+2021-06-03 18:47:15,292 - rating.py[line:200] - INFO: Add new team : 蹲在树堆里
+2021-06-03 18:47:15,441 - rating.py[line:200] - INFO: Add new team : 江南铁队
+2021-06-03 18:47:15,588 - rating.py[line:200] - INFO: Add new team : 桃乃木香奈
+2021-06-03 18:47:15,780 - rating.py[line:216] - INFO: Update team : 爆裂膜法使会不会梦到红魔乡的猫
+2021-06-03 18:47:16,002 - rating.py[line:200] - INFO: Add new team : ？？？？？？？？？
+2021-06-03 18:47:16,219 - rating.py[line:216] - INFO: Update team : 啊这
+2021-06-03 18:47:16,390 - rating.py[line:216] - INFO: Update team : 北林38队
+2021-06-03 18:47:16,769 - rating.py[line:216] - INFO: Update team : 小陀螺
+2021-06-03 18:47:17,037 - rating.py[line:216] - INFO: Update team : 乐子队
+2021-06-03 18:47:17,271 - rating.py[line:216] - INFO: Update team : 更新世界的锋芒
+2021-06-03 18:47:17,560 - rating.py[line:200] - INFO: Add new team : 你们的代码都队
+2021-06-03 18:47:18,040 - rating.py[line:216] - INFO: Update team : 你wa我t
+2021-06-03 18:47:18,632 - rating.py[line:216] - INFO: Update team : 匿名群友
+2021-06-03 18:47:19,091 - rating.py[line:216] - INFO: Update team : 秋天的第一个AC
+2021-06-03 18:47:19,280 - rating.py[line:216] - INFO: Update team : 三个菜菜
+2021-06-03 18:47:19,728 - rating.py[line:216] - INFO: Update team : 学习使我快乐
+2021-06-03 18:47:20,070 - rating.py[line:200] - INFO: Add new team : 你好犇犇啊！
+2021-06-03 18:47:20,418 - rating.py[line:216] - INFO: Update team : take your time
+2021-06-03 18:47:20,679 - rating.py[line:216] - INFO: Update team : 阿克钰！你在赣什么？
+2021-06-03 18:47:21,147 - rating.py[line:216] - INFO: Update team : 陆明燃全球粉丝后援会
+2021-06-03 18:47:21,318 - rating.py[line:200] - INFO: Add new team : 九章算树
+2021-06-03 18:47:21,462 - rating.py[line:200] - INFO: Add new team : 南方科技大学-巴塞尔城
+2021-06-03 18:47:21,653 - rating.py[line:216] - INFO: Update team : 这题目做不
+2021-06-03 18:47:21,832 - rating.py[line:200] - INFO: Add new team : HTT
+2021-06-03 18:47:21,962 - rating.py[line:200] - INFO: Add new team : 被电脑带飞了键盘都没动题就自动AC了
+2021-06-03 18:47:22,112 - rating.py[line:216] - INFO: Update team : 星星之火
+2021-06-03 18:47:22,248 - rating.py[line:216] - INFO: Update team : 想不出队名准备放弃思考
+2021-06-03 18:47:22,381 - rating.py[line:216] - INFO: Update team : 三个工具人
+2021-06-03 18:47:22,512 - rating.py[line:216] - INFO: Update team : 致命膜术
+2021-06-03 18:47:22,735 - rating.py[line:216] - INFO: Update team : 自古签到是C题
+2021-06-03 18:47:23,044 - rating.py[line:216] - INFO: Update team : 竹取飞翔
+2021-06-03 18:47:23,195 - rating.py[line:200] - INFO: Add new team : 梦里什么都有
+2021-06-03 18:47:23,331 - rating.py[line:200] - INFO: Add new team : 午时已到
+2021-06-03 18:47:23,498 - rating.py[line:216] - INFO: Update team : 教练，咱学校有牌啦
+2021-06-03 18:47:23,638 - rating.py[line:200] - INFO: Add new team : Away from xcpc
+2021-06-03 18:47:23,791 - rating.py[line:200] - INFO: Add new team : 豌豆射手准备就绪
+2021-06-03 18:47:23,979 - rating.py[line:216] - INFO: Update team : 昨夜萤火
+2021-06-03 18:47:24,119 - rating.py[line:216] - INFO: Update team : 咖啡吊着命
+2021-06-03 18:47:24,352 - rating.py[line:216] - INFO: Update team : 珰珰珰珰
+2021-06-03 18:47:24,518 - rating.py[line:216] - INFO: Update team : AC马
+2021-06-03 18:47:24,765 - rating.py[line:216] - INFO: Update team : Neverland
+2021-06-03 18:47:24,957 - rating.py[line:216] - INFO: Update team : 完美谢幕
+2021-06-03 18:47:25,117 - rating.py[line:200] - INFO: Add new team : 阿芙乐尔
+2021-06-03 18:47:25,236 - rating.py[line:216] - INFO: Update team : 反之亦然
+2021-06-03 18:47:25,533 - rating.py[line:216] - INFO: Update team : 小心扫描
+2021-06-03 18:47:25,802 - rating.py[line:216] - INFO: Update team : 大三学长爱跳舞
+2021-06-03 18:47:25,980 - rating.py[line:216] - INFO: Update team : Fahaxiki
+2021-06-03 18:47:26,246 - rating.py[line:200] - INFO: Add new team : 雾雨
+2021-06-03 18:47:26,371 - rating.py[line:200] - INFO: Add new team : 幽兰拿铁
+2021-06-03 18:47:26,497 - rating.py[line:216] - INFO: Update team : 我们不想再打铁了
+2021-06-03 18:47:26,770 - rating.py[line:216] - INFO: Update team : 打五把ICPC
+2021-06-03 18:47:26,990 - rating.py[line:216] - INFO: Update team : 能力突出
+2021-06-03 18:47:27,133 - rating.py[line:200] - INFO: Add new team : hot pot
+2021-06-03 18:47:27,251 - rating.py[line:216] - INFO: Update team : 喵喵汪
+2021-06-03 18:47:27,602 - rating.py[line:200] - INFO: Add new team : 吾与咸鱼孰咸
+2021-06-03 18:47:27,804 - rating.py[line:216] - INFO: Update team : 济鶸
+2021-06-03 18:47:28,025 - rating.py[line:216] - INFO: Update team : 婺城区老年人复健中心
+2021-06-03 18:47:28,203 - rating.py[line:216] - INFO: Update team : 硬皮核弹头
+2021-06-03 18:47:28,383 - rating.py[line:200] - INFO: Add new team : 河童重工
+2021-06-03 18:47:28,526 - rating.py[line:200] - INFO: Add new team : 妙不可言
+2021-06-03 18:47:28,697 - rating.py[line:200] - INFO: Add new team : 大一陪跑队
+2021-06-03 18:47:28,858 - rating.py[line:216] - INFO: Update team : 要气球不要炸薯球
+2021-06-03 18:47:28,992 - rating.py[line:216] - INFO: Update team : 专业爆零
+2021-06-03 18:47:29,124 - rating.py[line:216] - INFO: Update team : 卡皮卡皮卡
+2021-06-03 18:47:29,299 - rating.py[line:216] - INFO: Update team : 打工人一个顶仨
+2021-06-03 18:47:29,443 - rating.py[line:216] - INFO: Update team : 男德学院
+2021-06-03 18:47:29,600 - rating.py[line:216] - INFO: Update team : 哈理工13队
+2021-06-03 18:47:29,796 - rating.py[line:216] - INFO: Update team : 随机队名
+2021-06-03 18:47:29,971 - rating.py[line:200] - INFO: Add new team : 中山大学_鸽声绕梁
+2021-06-03 18:47:30,107 - rating.py[line:216] - INFO: Update team : 长理萌新队
+2021-06-03 18:47:30,258 - rating.py[line:200] - INFO: Add new team : 真不是假名
+2021-06-03 18:47:30,438 - rating.py[line:216] - INFO: Update team : 墨西哥鸡肉卷
+2021-06-03 18:47:30,567 - rating.py[line:216] - INFO: Update team : 三个炼金师
+2021-06-03 18:47:30,730 - rating.py[line:200] - INFO: Add new team : 不知道
+2021-06-03 18:47:30,875 - rating.py[line:200] - INFO: Add new team : 香蕉牛奶
+2021-06-03 18:47:31,004 - rating.py[line:216] - INFO: Update team : GDUT_LaLaLa
+2021-06-03 18:47:31,164 - rating.py[line:200] - INFO: Add new team : 铁牌++
+2021-06-03 18:47:31,326 - rating.py[line:216] - INFO: Update team : 细胞色素
+2021-06-03 18:47:31,482 - rating.py[line:200] - INFO: Add new team : 大吉大利
+2021-06-03 18:47:31,614 - rating.py[line:200] - INFO: Add new team : BasiCode
+2021-06-03 18:47:31,765 - rating.py[line:216] - INFO: Update team : 面向样例程序设计
+2021-06-03 18:47:31,977 - rating.py[line:200] - INFO: Add new team : 不学计算机的土木人当不了好数学家
+2021-06-03 18:47:32,185 - rating.py[line:216] - INFO: Update team : WAToFinal
+2021-06-03 18:47:32,341 - rating.py[line:200] - INFO: Add new team : 不到两点我不睡
+2021-06-03 18:47:32,490 - rating.py[line:216] - INFO: Update team : 红橙作伴WATLE
+2021-06-03 18:47:32,768 - rating.py[line:200] - INFO: Add new team : 黄金三镖客
+2021-06-03 18:47:32,931 - rating.py[line:216] - INFO: Update team : Team of GB
+2021-06-03 18:47:33,097 - rating.py[line:200] - INFO: Add new team : 嘤嘤嘤
+2021-06-03 18:47:33,235 - rating.py[line:200] - INFO: Add new team : 小心兽人控
+2021-06-03 18:47:33,397 - rating.py[line:216] - INFO: Update team : 我们想peach
+2021-06-03 18:47:33,544 - rating.py[line:200] - INFO: Add new team : 不要怕WA
+2021-06-03 18:47:33,672 - rating.py[line:216] - INFO: Update team : 我永远喜欢风冈麻理
+2021-06-03 18:47:33,931 - rating.py[line:216] - INFO: Update team : 大意了没有闪
+2021-06-03 18:47:34,202 - rating.py[line:200] - INFO: Add new team : 不知道叫什么队
+2021-06-03 18:47:34,382 - rating.py[line:216] - INFO: Update team : 埃派克斯瑞星
+2021-06-03 18:47:34,517 - rating.py[line:216] - INFO: Update team : 某孙姓队友说杜老师也就那样
+2021-06-03 18:47:34,686 - rating.py[line:200] - INFO: Add new team : 3月
+2021-06-03 18:47:34,829 - rating.py[line:216] - INFO: Update team : 你这个年龄段睡得着觉？
+2021-06-03 18:47:34,962 - rating.py[line:216] - INFO: Update team : 侧目微笑默叹以为妙绝
+2021-06-03 18:47:35,214 - rating.py[line:216] - INFO: Update team : 编译与迈吉克
+2021-06-03 18:47:35,395 - rating.py[line:200] - INFO: Add new team : 黄沙百战穿金甲，不破楼兰终不还。
+2021-06-03 18:47:35,517 - rating.py[line:216] - INFO: Update team : k-on
+2021-06-03 18:47:35,646 - rating.py[line:216] - INFO: Update team : SCAU_XXX
+2021-06-03 18:47:35,995 - rating.py[line:200] - INFO: Add new team : ZQU_LeedsUnited
+2021-06-03 18:47:36,135 - rating.py[line:200] - INFO: Add new team : 南中附大拆弹大队
+2021-06-03 18:47:36,264 - rating.py[line:200] - INFO: Add new team : acwww
+2021-06-03 18:47:36,449 - rating.py[line:216] - INFO: Update team : 本场比赛不排名
+2021-06-03 18:47:36,580 - rating.py[line:200] - INFO: Add new team : Team Untitled
+2021-06-03 18:47:36,719 - rating.py[line:216] - INFO: Update team : CODE_RUSH
+2021-06-03 18:47:36,856 - rating.py[line:216] - INFO: Update team : 拿奖就去建戴森球
+2021-06-03 18:47:36,990 - rating.py[line:216] - INFO: Update team : 这次不咕
+2021-06-03 18:47:37,137 - rating.py[line:216] - INFO: Update team : 风花雪月
+2021-06-03 18:47:37,316 - rating.py[line:200] - INFO: Add new team : Wa题永动机
+2021-06-03 18:47:37,462 - rating.py[line:200] - INFO: Add new team : 哈哈哈
+2021-06-03 18:47:37,619 - rating.py[line:216] - INFO: Update team : 我要我觉得
+2021-06-03 18:47:37,808 - rating.py[line:216] - INFO: Update team : 日暮山水
+2021-06-03 18:47:37,987 - rating.py[line:200] - INFO: Add new team : 流星
+2021-06-03 18:47:38,179 - rating.py[line:216] - INFO: Update team : 队名太难取
+2021-06-03 18:47:38,335 - rating.py[line:200] - INFO: Add new team : 有富婆吗？
+2021-06-03 18:47:38,495 - rating.py[line:200] - INFO: Add new team : 三缺一
+2021-06-03 18:47:38,631 - rating.py[line:200] - INFO: Add new team : The Next Level Play
+2021-06-03 18:47:38,776 - rating.py[line:216] - INFO: Update team : 幸福一家人
+2021-06-03 18:47:38,920 - rating.py[line:216] - INFO: Update team : ICPC Teahouse
+2021-06-03 18:47:39,146 - rating.py[line:216] - INFO: Update team : 又双叒叕AC了
+2021-06-03 18:47:39,353 - rating.py[line:216] - INFO: Update team : 海的那边是自由
+2021-06-03 18:47:39,503 - rating.py[line:216] - INFO: Update team : 我们只是来卖萌而已
+2021-06-03 18:47:39,764 - rating.py[line:216] - INFO: Update team : 队友不让我打代码
+2021-06-03 18:47:40,053 - rating.py[line:216] - INFO: Update team : 没有异议
+2021-06-03 18:47:40,200 - rating.py[line:216] - INFO: Update team : 椭圆卤蛋中学
+2021-06-03 18:47:40,462 - rating.py[line:216] - INFO: Update team : WDNMD_SCNU
+2021-06-03 18:47:40,672 - rating.py[line:216] - INFO: Update team : 树下没法合并
+2021-06-03 18:47:40,843 - rating.py[line:216] - INFO: Update team : 凤凰涅槃
+2021-06-03 18:47:41,012 - rating.py[line:200] - INFO: Add new team : 打完就吃灌汤包
+2021-06-03 18:47:41,158 - rating.py[line:200] - INFO: Add new team : SWU_New
+2021-06-03 18:47:41,314 - rating.py[line:200] - INFO: Add new team : 哈理工5队
+2021-06-03 18:47:41,482 - rating.py[line:216] - INFO: Update team : 英语三级半选手
+2021-06-03 18:47:41,831 - rating.py[line:200] - INFO: Add new team : zhw
+2021-06-03 18:47:42,043 - rating.py[line:216] - INFO: Update team : 金玉紫棠
+2021-06-03 18:47:42,354 - rating.py[line:216] - INFO: Update team : NAC
+2021-06-03 18:47:42,513 - rating.py[line:216] - INFO: Update team : 全体起立
+2021-06-03 18:47:42,735 - rating.py[line:200] - INFO: Add new team : 代表月亮消灭你
+2021-06-03 18:47:43,076 - rating.py[line:216] - INFO: Update team : 去你家吃饭好吗
+2021-06-03 18:47:43,398 - rating.py[line:216] - INFO: Update team : 因为刚刚签了到，开心发出狒狒叫
+2021-06-03 18:47:43,603 - rating.py[line:216] - INFO: Update team : 败者食尘
+2021-06-03 18:47:43,860 - rating.py[line:216] - INFO: Update team : 凤梨带我们一起飞
+2021-06-03 18:47:44,090 - rating.py[line:216] - INFO: Update team : 未名
+2021-06-03 18:47:44,370 - rating.py[line:200] - INFO: Add new team : 哈理工9队
+2021-06-03 18:47:44,669 - rating.py[line:216] - INFO: Update team : 走到湖边就会哈啦一下买一杯美式
+2021-06-03 18:47:44,932 - rating.py[line:216] - INFO: Update team : 鑫森众焱垚
+2021-06-03 18:47:45,176 - rating.py[line:216] - INFO: Update team : 匈牙利牛肉焗饭
+2021-06-03 18:47:45,403 - rating.py[line:216] - INFO: Update team : 三月20号的东北下雪啦
+2021-06-03 18:47:45,642 - rating.py[line:200] - INFO: Add new team : 人活着就是为了打铁
+2021-06-03 18:47:45,877 - rating.py[line:216] - INFO: Update team : 以上成绩无效
+2021-06-03 18:47:46,169 - rating.py[line:216] - INFO: Update team : 我突然想起一道题.jpg
+2021-06-03 18:47:46,415 - rating.py[line:216] - INFO: Update team : 楼上慢一点
+2021-06-03 18:47:46,969 - rating.py[line:216] - INFO: Update team : 超时自动机
+2021-06-03 18:47:47,273 - rating.py[line:216] - INFO: Update team : 正在南非上网
+2021-06-03 18:47:47,551 - rating.py[line:216] - INFO: Update team : 快乐的牛耶
+2021-06-03 18:47:47,834 - rating.py[line:216] - INFO: Update team : 人均身高180
+2021-06-03 18:47:48,180 - rating.py[line:216] - INFO: Update team : SKD夏延号
+2021-06-03 18:47:48,424 - rating.py[line:200] - INFO: Add new team : 找不到对象
+2021-06-03 18:47:48,628 - rating.py[line:200] - INFO: Add new team : 四级都没过
+2021-06-03 18:47:48,833 - rating.py[line:216] - INFO: Update team : 高考出题组
+2021-06-03 18:47:49,240 - rating.py[line:200] - INFO: Add new team : 这是什么
+2021-06-03 18:47:49,472 - rating.py[line:200] - INFO: Add new team : WAmakers
+2021-06-03 18:47:49,718 - rating.py[line:216] - INFO: Update team : 100%mengxin
+2021-06-03 18:47:50,322 - rating.py[line:216] - INFO: Update team : 佛跳墙
+2021-06-03 18:47:50,612 - rating.py[line:216] - INFO: Update team : 啥也不是
+2021-06-03 18:47:50,951 - rating.py[line:216] - INFO: Update team : 队友让我随便起
+2021-06-03 18:47:51,543 - rating.py[line:216] - INFO: Update team : 我是谁我在哪我在干嘛
+2021-06-03 18:47:52,083 - rating.py[line:200] - INFO: Add new team : 出题人是不讲题的
+2021-06-03 18:47:52,317 - rating.py[line:200] - INFO: Add new team : 三菜鸡队
+2021-06-03 18:47:52,563 - rating.py[line:216] - INFO: Update team : 想不出队名
+2021-06-03 18:47:52,843 - rating.py[line:216] - INFO: Update team : KPL首发战队
+2021-06-03 18:47:53,125 - rating.py[line:200] - INFO: Add new team : 无名英雄
+2021-06-03 18:47:53,337 - rating.py[line:216] - INFO: Update team : 你今天刷题了吗？
+2021-06-03 18:47:53,603 - rating.py[line:200] - INFO: Add new team : 码德充沛
+2021-06-03 18:47:53,844 - rating.py[line:216] - INFO: Update team : ThreeStupidCats
+2021-06-03 18:47:54,069 - rating.py[line:200] - INFO: Add new team : 猫猫头
+2021-06-03 18:47:54,276 - rating.py[line:216] - INFO: Update team : AC一小队
+2021-06-03 18:47:54,476 - rating.py[line:200] - INFO: Add new team : 比赛现场吃烧烤
+2021-06-03 18:47:54,684 - rating.py[line:200] - INFO: Add new team : 闹得挺大
+2021-06-03 18:47:54,910 - rating.py[line:200] - INFO: Add new team : 为什么队名不能随机生成啊
+2021-06-03 18:47:55,163 - rating.py[line:216] - INFO: Update team : 蜜汁火腿
+2021-06-03 18:47:55,408 - rating.py[line:200] - INFO: Add new team : 铁匠师傅有bear来
+2021-06-03 18:47:55,651 - rating.py[line:200] - INFO: Add new team : 为了和平
+2021-06-03 18:47:55,859 - rating.py[line:200] - INFO: Add new team : 别挣扎了15点吧
+2021-06-03 18:47:56,069 - rating.py[line:200] - INFO: Add new team : 喵喵喵
+2021-06-03 18:47:56,318 - rating.py[line:216] - INFO: Update team : 公费旅游团
+2021-06-03 18:47:56,532 - rating.py[line:216] - INFO: Update team : 星火
+2021-06-03 18:47:56,941 - rating.py[line:216] - INFO: Update team : 得偿所愿
+2021-06-03 18:47:57,164 - rating.py[line:216] - INFO: Update team : 又菜又爱玩
+2021-06-03 18:47:57,608 - rating.py[line:200] - INFO: Add new team : 之江1队
+2021-06-03 18:47:57,855 - rating.py[line:200] - INFO: Add new team : 星星不说话
+2021-06-03 18:47:58,226 - rating.py[line:216] - INFO: Update team : 神仙假假
+2021-06-03 18:47:58,473 - rating.py[line:216] - INFO: Update team : 换个题继续wa
+2021-06-03 18:47:58,799 - rating.py[line:200] - INFO: Add new team : 燃起来了
+2021-06-03 18:47:58,983 - rating.py[line:200] - INFO: Add new team : ZJUT10
+2021-06-03 18:47:59,114 - rating.py[line:216] - INFO: Update team : 这河狸么
+2021-06-03 18:47:59,250 - rating.py[line:200] - INFO: Add new team : Squall
+2021-06-03 18:47:59,489 - rating.py[line:216] - INFO: Update team : 耶斯莫拉！！！
+2021-06-03 18:47:59,807 - rating.py[line:216] - INFO: Update team : 这步河里
+2021-06-03 18:48:00,023 - rating.py[line:216] - INFO: Update team : ZQU_SheffieldUnited
+2021-06-03 18:48:00,218 - rating.py[line:200] - INFO: Add new team : ptr++
+2021-06-03 18:48:00,380 - rating.py[line:216] - INFO: Update team : 全员小丑
+2021-06-03 18:48:00,620 - rating.py[line:216] - INFO: Update team : 禁用敏感词
+2021-06-03 18:48:00,758 - rating.py[line:216] - INFO: Update team : C你太美
+2021-06-03 18:48:01,076 - rating.py[line:216] - INFO: Update team : 拿牌就给队友表白
+2021-06-03 18:48:01,219 - rating.py[line:216] - INFO: Update team : 时间拖延
+2021-06-03 18:48:01,343 - rating.py[line:216] - INFO: Update team : try
+2021-06-03 18:48:01,484 - rating.py[line:200] - INFO: Add new team : 夜阳雪
+2021-06-03 18:48:01,670 - rating.py[line:200] - INFO: Add new team : 明日之星
+2021-06-03 18:48:01,807 - rating.py[line:200] - INFO: Add new team : 没什么好想法
+2021-06-03 18:48:01,931 - rating.py[line:216] - INFO: Update team : NEUQ-BK
+2021-06-03 18:48:02,057 - rating.py[line:200] - INFO: Add new team : 阿什
+2021-06-03 18:48:02,182 - rating.py[line:216] - INFO: Update team : ZH的任务罢了
+2021-06-03 18:48:02,327 - rating.py[line:200] - INFO: Add new team : 啊这[笑哭]女装可还行
+2021-06-03 18:48:02,488 - rating.py[line:200] - INFO: Add new team : 三菜一汤
+2021-06-03 18:48:02,613 - rating.py[line:216] - INFO: Update team : 哈理工12队
+2021-06-03 18:48:02,824 - rating.py[line:200] - INFO: Add new team : 神奇队
+2021-06-03 18:48:03,000 - rating.py[line:200] - INFO: Add new team : Towards the peak of life
+2021-06-03 18:48:03,144 - rating.py[line:216] - INFO: Update team : 再来一组测试数据
+2021-06-03 18:48:03,344 - rating.py[line:216] - INFO: Update team : 送不出去
+2021-06-03 18:48:03,468 - rating.py[line:200] - INFO: Add new team : 想去昆明泡温泉
+2021-06-03 18:48:03,580 - rating.py[line:216] - INFO: Update team : 小小甜心
+2021-06-03 18:48:03,776 - rating.py[line:200] - INFO: Add new team : 逆风
+2021-06-03 18:48:03,925 - rating.py[line:216] - INFO: Update team : 清风明月
+2021-06-03 18:48:04,072 - rating.py[line:216] - INFO: Update team : 日出入安穷
+2021-06-03 18:48:04,360 - rating.py[line:216] - INFO: Update team : 焦煤生产协会
+2021-06-03 18:48:04,489 - rating.py[line:216] - INFO: Update team : ICPC你看我们还有机会吗
+2021-06-03 18:48:04,681 - rating.py[line:216] - INFO: Update team : WhereFree
+2021-06-03 18:48:04,801 - rating.py[line:216] - INFO: Update team : 《夕阳红LDF》
+2021-06-03 18:48:04,933 - rating.py[line:200] - INFO: Add new team : 芜湖塔台请求坠机
+2021-06-03 18:48:05,127 - rating.py[line:200] - INFO: Add new team : 《A掉签到就算成功》
+2021-06-03 18:48:05,244 - rating.py[line:200] - INFO: Add new team : 我的青春ACM物语果然有问题
+2021-06-03 18:48:05,368 - rating.py[line:200] - INFO: Add new team : 不想当机械师的程序员进不了环保局
+2021-06-03 18:48:05,496 - rating.py[line:200] - INFO: Add new team : 鰞餒簋麳癜譅駼
+2021-06-03 18:48:05,613 - rating.py[line:216] - INFO: Update team : 我给你们买橘子
+2021-06-03 18:48:05,794 - rating.py[line:216] - INFO: Update team : ICPC一日游
+2021-06-03 18:48:06,014 - rating.py[line:200] - INFO: Add new team : 万山无阻
+2021-06-03 18:48:06,169 - rating.py[line:200] - INFO: Add new team : 自码小队
+2021-06-03 18:48:06,354 - rating.py[line:200] - INFO: Add new team : 画画的贝贝
+2021-06-03 18:48:06,474 - rating.py[line:216] - INFO: Update team : 神秘力量
+2021-06-03 18:48:06,657 - rating.py[line:200] - INFO: Add new team : 很兰的啦
+2021-06-03 18:48:06,775 - rating.py[line:200] - INFO: Add new team : 不能停止瞌睡
+2021-06-03 18:48:06,908 - rating.py[line:200] - INFO: Add new team : Seeing is believing
+2021-06-03 18:48:07,102 - rating.py[line:216] - INFO: Update team : A little headache
+2021-06-03 18:48:07,253 - rating.py[line:200] - INFO: Add new team : 旅行
+2021-06-03 18:48:07,403 - rating.py[line:200] - INFO: Add new team : 给我柠檬汽水
+2021-06-03 18:48:07,589 - rating.py[line:200] - INFO: Add new team : DeDeRong
+2021-06-03 18:48:07,740 - rating.py[line:216] - INFO: Update team : SCAU_懒狗
+2021-06-03 18:48:08,083 - rating.py[line:200] - INFO: Add new team : 专业下饭团
+2021-06-03 18:48:08,236 - rating.py[line:200] - INFO: Add new team : 开拓者
+2021-06-03 18:48:08,380 - rating.py[line:216] - INFO: Update team : NEUQ-Oops
+2021-06-03 18:48:08,568 - rating.py[line:200] - INFO: Add new team : 先一步回英灵殿
+2021-06-03 18:48:08,725 - rating.py[line:216] - INFO: Update team : 三只小熊饼干
+2021-06-03 18:48:08,900 - rating.py[line:216] - INFO: Update team : 小公主
+2021-06-03 18:48:09,272 - rating.py[line:216] - INFO: Update team : 杰尼龟
+2021-06-03 18:48:09,540 - rating.py[line:216] - INFO: Update team : Last Shoot : 咸鱼挽歌
+2021-06-03 18:48:09,664 - rating.py[line:200] - INFO: Add new team : 咕咕咕咕咕咕咕咕
+2021-06-03 18:48:09,836 - rating.py[line:216] - INFO: Update team : 键盘里有虫
+2021-06-03 18:48:09,958 - rating.py[line:200] - INFO: Add new team : TD梦之队DT
+2021-06-03 18:48:10,146 - rating.py[line:216] - INFO: Update team : TLEnoTLE
+2021-06-03 18:48:10,272 - rating.py[line:200] - INFO: Add new team : 无名小卒
+2021-06-03 18:48:10,392 - rating.py[line:216] - INFO: Update team : 河海矿工
+2021-06-03 18:48:10,564 - rating.py[line:200] - INFO: Add new team : 三条酸菜鱼
+2021-06-03 18:48:10,686 - rating.py[line:200] - INFO: Add new team : 普通玩家
+2021-06-03 18:48:10,864 - rating.py[line:216] - INFO: Update team : 去不了澳门队
+2021-06-03 18:48:11,030 - rating.py[line:200] - INFO: Add new team : 样例全队
+2021-06-03 18:48:11,160 - rating.py[line:216] - INFO: Update team : *激烈的摸鱼对决*
+2021-06-03 18:48:11,342 - rating.py[line:216] - INFO: Update team : 玮光浩瀚
+2021-06-03 18:48:11,461 - rating.py[line:200] - INFO: Add new team : 重铸ac荣光，我辈义不容辞
+2021-06-03 18:48:11,585 - rating.py[line:216] - INFO: Update team : 锟斤烤烫烫烫
+2021-06-03 18:48:11,728 - rating.py[line:200] - INFO: Add new team : SYSU_铁匠铺
+2021-06-03 18:48:11,870 - rating.py[line:216] - INFO: Update team : T1382
+2021-06-03 18:48:12,007 - rating.py[line:200] - INFO: Add new team : 枢机返还之光
+2021-06-03 18:48:12,193 - rating.py[line:216] - INFO: Update team : 指尖跳动的电光
+2021-06-03 18:48:12,322 - rating.py[line:216] - INFO: Update team : orange juice
+2021-06-03 18:48:12,461 - rating.py[line:216] - INFO: Update team : Team
+2021-06-03 18:48:12,597 - rating.py[line:216] - INFO: Update team : 求求给个铜吧
+2021-06-03 18:48:12,971 - rating.py[line:216] - INFO: Update team : 南山行
+2021-06-03 18:48:13,153 - rating.py[line:216] - INFO: Update team : 好想变有钱
+2021-06-03 18:48:13,309 - rating.py[line:200] - INFO: Add new team : yoyo
+2021-06-03 18:48:13,425 - rating.py[line:216] - INFO: Update team : 我好想又行了
+2021-06-03 18:48:13,597 - rating.py[line:216] - INFO: Update team : 真愁人
+2021-06-03 18:48:13,837 - rating.py[line:216] - INFO: Update team : 面向打铁编程
+2021-06-03 18:48:14,119 - rating.py[line:200] - INFO: Add new team : 芜湖 起飞~
+2021-06-03 18:48:14,247 - rating.py[line:216] - INFO: Update team : 123木头人
+2021-06-03 18:48:14,414 - rating.py[line:216] - INFO: Update team : 优衣说一
+2021-06-03 18:48:14,538 - rating.py[line:200] - INFO: Add new team : 三个铁匠
+2021-06-03 18:48:14,663 - rating.py[line:216] - INFO: Update team : 因为太怕tle所以全wa了
+2021-06-03 18:48:14,793 - rating.py[line:200] - INFO: Add new team : 三根彩笔
+2021-06-03 18:48:14,954 - rating.py[line:200] - INFO: Add new team : 铜锣湾的故事
+2021-06-03 18:48:15,075 - rating.py[line:216] - INFO: Update team : 队友看我A不了直接拔电源
+2021-06-03 18:48:15,207 - rating.py[line:200] - INFO: Add new team : 蜡笔小心
+2021-06-03 18:48:15,361 - rating.py[line:200] - INFO: Add new team : 按F5看题解
+2021-06-03 18:48:15,484 - rating.py[line:200] - INFO: Add new team : 龘䶛䨻䎱㸞蚮䡶䴞䴝䯬䬛䰕㹚
+2021-06-03 18:48:15,667 - rating.py[line:200] - INFO: Add new team : 放学后茶会
+2021-06-03 18:48:15,846 - rating.py[line:216] - INFO: Update team : NEUQ-Friday
+2021-06-03 18:48:15,962 - rating.py[line:216] - INFO: Update team : CSFUT@KM3
+2021-06-03 18:48:16,109 - rating.py[line:216] - INFO: Update team : 246三硝基甲苯
+2021-06-03 18:48:16,356 - rating.py[line:216] - INFO: Update team : 一支三人队伍
+2021-06-03 18:48:16,562 - rating.py[line:216] - INFO: Update team : 妙蛙种子
+2021-06-03 18:48:16,687 - rating.py[line:216] - INFO: Update team : 發財
+2021-06-03 18:48:16,821 - rating.py[line:200] - INFO: Add new team : QAQ
+2021-06-03 18:48:16,956 - rating.py[line:200] - INFO: Add new team : syc的航空母舰
+2021-06-03 18:48:17,086 - rating.py[line:216] - INFO: Update team : 丝滑拿铁
+2021-06-03 18:48:17,341 - rating.py[line:216] - INFO: Update team : 果然萌
+2021-06-03 18:48:17,512 - rating.py[line:200] - INFO: Add new team : Z.D.R
+2021-06-03 18:48:17,655 - rating.py[line:200] - INFO: Add new team : 烦死了，推都推不出来
+2021-06-03 18:48:17,859 - rating.py[line:216] - INFO: Update team : 碎月
+2021-06-03 18:48:18,059 - rating.py[line:200] - INFO: Add new team : 名字取得比较随便
+2021-06-03 18:48:18,199 - rating.py[line:200] - INFO: Add new team : Int ACM
+2021-06-03 18:48:18,328 - rating.py[line:216] - INFO: Update team : phantom type
+2021-06-03 18:48:18,504 - rating.py[line:216] - INFO: Update team : SuperQueue
+2021-06-03 18:48:18,628 - rating.py[line:200] - INFO: Add new team : 告白气球
+2021-06-03 18:48:18,753 - rating.py[line:200] - INFO: Add new team : Thank you sir
+2021-06-03 18:48:18,881 - rating.py[line:200] - INFO: Add new team : NO GAME NO LIFE
+2021-06-03 18:48:19,011 - rating.py[line:216] - INFO: Update team : 暴力美学
+2021-06-03 18:48:19,188 - rating.py[line:216] - INFO: Update team : 这么巧你也上网冲浪啊
+2021-06-03 18:48:19,317 - rating.py[line:216] - INFO: Update team : 拿牌就女装
+2021-06-03 18:48:19,444 - rating.py[line:200] - INFO: Add new team : DX3906
+2021-06-03 18:48:19,590 - rating.py[line:200] - INFO: Add new team : 南海的网什么时候能站起来
+2021-06-03 18:48:19,764 - rating.py[line:200] - INFO: Add new team : 三个火枪手
+2021-06-03 18:48:19,900 - rating.py[line:216] - INFO: Update team : AChappy
+2021-06-03 18:48:20,080 - rating.py[line:216] - INFO: Update team : 秋雨骤降伞层叠
+2021-06-03 18:48:20,194 - rating.py[line:200] - INFO: Add new team : WYL
+2021-06-03 18:48:20,318 - rating.py[line:216] - INFO: Update team : 就当为了我拿个牌吧
+2021-06-03 18:48:20,446 - rating.py[line:200] - INFO: Add new team : 随便来一个
+2021-06-03 18:48:20,570 - rating.py[line:200] - INFO: Add new team : 突突对 Pro
+2021-06-03 18:48:20,741 - rating.py[line:200] - INFO: Add new team : 冰冰的心是我的
+2021-06-03 18:48:20,871 - rating.py[line:216] - INFO: Update team : 农村小伙
+2021-06-03 18:48:21,102 - rating.py[line:216] - INFO: Update team : 我没意见
+2021-06-03 18:48:21,227 - rating.py[line:216] - INFO: Update team : 奥利奥利奥
+2021-06-03 18:48:21,349 - rating.py[line:200] - INFO: Add new team : 曹妃甸里抓蒟蒻
+2021-06-03 18:48:21,475 - rating.py[line:200] - INFO: Add new team : DAG上找环
+2021-06-03 18:48:21,638 - rating.py[line:200] - INFO: Add new team : 炼金术士
+2021-06-03 18:48:21,840 - rating.py[line:216] - INFO: Update team : 逃离大气层
+2021-06-03 18:48:22,082 - rating.py[line:216] - INFO: Update team : HARD_WORKERS
+2021-06-03 18:48:22,216 - rating.py[line:216] - INFO: Update team : 仙儿
+2021-06-03 18:48:22,344 - rating.py[line:216] - INFO: Update team : 我爱吃炸鸡
+2021-06-03 18:48:22,551 - rating.py[line:200] - INFO: Add new team : 随机一个名字
+2021-06-03 18:48:22,690 - rating.py[line:200] - INFO: Add new team : 发际线跟我作队
+2021-06-03 18:48:22,856 - rating.py[line:200] - INFO: Add new team : 汤逊湖畔
+2021-06-03 18:48:23,033 - rating.py[line:200] - INFO: Add new team : 我是伞兵
+2021-06-03 18:48:23,199 - rating.py[line:200] - INFO: Add new team : 研究生2队
+2021-06-03 18:48:23,317 - rating.py[line:200] - INFO: Add new team : Three Angry Men
+2021-06-03 18:48:23,479 - rating.py[line:200] - INFO: Add new team : GXUN_08
+2021-06-03 18:48:23,655 - rating.py[line:216] - INFO: Update team : 卡布奇诺不想拿铁
+2021-06-03 18:48:23,943 - rating.py[line:200] - INFO: Add new team : 三只小猪
+2021-06-03 18:48:24,101 - rating.py[line:200] - INFO: Add new team : 传统算法不讲武德
+2021-06-03 18:48:24,256 - rating.py[line:200] - INFO: Add new team : 不讲码德
+2021-06-03 18:48:24,411 - rating.py[line:200] - INFO: Add new team : 张润枝
+2021-06-03 18:48:24,583 - rating.py[line:200] - INFO: Add new team : 考完研回来继续冲
+2021-06-03 18:48:24,718 - rating.py[line:200] - INFO: Add new team : CS3Shuai
+2021-06-03 18:48:24,845 - rating.py[line:200] - INFO: Add new team : 铜匠
+2021-06-03 18:48:24,982 - rating.py[line:216] - INFO: Update team : 芜湖
+2021-06-03 18:48:25,135 - rating.py[line:200] - INFO: Add new team : SKD火炬号
+2021-06-03 18:48:25,285 - rating.py[line:200] - INFO: Add new team : 喜欢唱，跳，rap，篮球的ACM练习生
+2021-06-03 18:48:25,475 - rating.py[line:216] - INFO: Update team : 做的题都
+2021-06-03 18:48:25,615 - rating.py[line:200] - INFO: Add new team : 云上昆明一日旅游团
+2021-06-03 18:48:25,753 - rating.py[line:216] - INFO: Update team : 重返艾泽拉斯
+2021-06-03 18:48:25,938 - rating.py[line:216] - INFO: Update team : ACBU
+2021-06-03 18:48:26,064 - rating.py[line:216] - INFO: Update team : NEUQ-Salt_Fish
+2021-06-03 18:48:26,222 - rating.py[line:200] - INFO: Add new team : 拿奖看状态
+2021-06-03 18:48:26,405 - rating.py[line:200] - INFO: Add new team : IMNU4
+2021-06-03 18:48:26,557 - rating.py[line:216] - INFO: Update team : 让我们想想叫什么名字
+2021-06-03 18:48:26,699 - rating.py[line:200] - INFO: Add new team : 战车
+2021-06-03 18:48:26,828 - rating.py[line:216] - INFO: Update team : 来都来了
+2021-06-03 18:48:26,966 - rating.py[line:200] - INFO: Add new team : 想不出队名
+2021-06-03 18:48:27,099 - rating.py[line:200] - INFO: Add new team : 三脚猫的功夫
+2021-06-03 18:48:27,275 - rating.py[line:200] - INFO: Add new team : 晴王
+2021-06-03 18:48:27,388 - rating.py[line:216] - INFO: Update team : 酸菜鱼
+2021-06-03 18:48:27,518 - rating.py[line:216] - INFO: Update team : 黄花菜叶队
+2021-06-03 18:48:27,655 - rating.py[line:200] - INFO: Add new team : 签到自动机
+2021-06-03 18:48:27,815 - rating.py[line:200] - INFO: Add new team : The dawn
+2021-06-03 18:48:28,018 - rating.py[line:200] - INFO: Add new team : 为了防止世界被破坏为了守护世界的和平贯彻爱与真实的邪恶可爱又迷人的反派角色队
+2021-06-03 18:48:28,213 - rating.py[line:200] - INFO: Add new team : 求求各位下手轻点
+2021-06-03 18:48:28,340 - rating.py[line:216] - INFO: Update team : 阳光辰露
+2021-06-03 18:48:28,574 - rating.py[line:200] - INFO: Add new team : 北极星
+2021-06-03 18:48:28,704 - rating.py[line:200] - INFO: Add new team : SKD新星号
+2021-06-03 18:48:28,867 - rating.py[line:200] - INFO: Add new team : 小邪神飞踢
+2021-06-03 18:48:29,046 - rating.py[line:216] - INFO: Update team : 全员不WA
+2021-06-03 18:48:29,193 - rating.py[line:216] - INFO: Update team : 不会用雷的徐志鸟
+2021-06-03 18:48:29,337 - rating.py[line:200] - INFO: Add new team : 不会真有人是二刺猿吧
+2021-06-03 18:48:29,466 - rating.py[line:200] - INFO: Add new team : 掷骰子
+2021-06-03 18:48:29,602 - rating.py[line:216] - INFO: Update team : 铁大菜市场
+2021-06-03 18:48:29,883 - rating.py[line:216] - INFO: Update team : ZQU_BlackburnRovers
+2021-06-03 18:48:30,014 - rating.py[line:216] - INFO: Update team : 芜湖起飞
+2021-06-03 18:48:30,189 - rating.py[line:200] - INFO: Add new team : 黑天鹅港的幽灵
+2021-06-03 18:48:30,317 - rating.py[line:216] - INFO: Update team : 布谷鸟
+2021-06-03 18:48:30,521 - rating.py[line:200] - INFO: Add new team : 曹妃甸里抓螃蟹
+2021-06-03 18:48:30,650 - rating.py[line:200] - INFO: Add new team : SYSU_Newbie
+2021-06-03 18:48:30,781 - rating.py[line:200] - INFO: Add new team : 害怕被打
+2021-06-03 18:48:30,904 - rating.py[line:200] - INFO: Add new team : k&k&k
+2021-06-03 18:48:31,035 - rating.py[line:200] - INFO: Add new team : 码到成功
+2021-06-03 18:48:31,199 - rating.py[line:200] - INFO: Add new team : 夕阳无限好队
+2021-06-03 18:48:31,334 - rating.py[line:200] - INFO: Add new team : 图个乐
+2021-06-03 18:48:31,467 - rating.py[line:200] - INFO: Add new team : 五杀
+2021-06-03 18:48:31,611 - rating.py[line:216] - INFO: Update team : 疯狂点鼠标
+2021-06-03 18:48:31,756 - rating.py[line:200] - INFO: Add new team : 丝滑拿铁
+2021-06-03 18:48:31,890 - rating.py[line:200] - INFO: Add new team : Orz no boom zero
+2021-06-03 18:48:32,056 - rating.py[line:216] - INFO: Update team : 教练要求队名有字因为乌兹不行
+2021-06-03 18:48:32,237 - rating.py[line:200] - INFO: Add new team : coroutine
+2021-06-03 18:48:32,361 - rating.py[line:200] - INFO: Add new team : 小熊软糖
+2021-06-03 18:48:32,499 - rating.py[line:216] - INFO: Update team : 清风荷影
+2021-06-03 18:48:32,638 - rating.py[line:200] - INFO: Add new team : Sunset Rollercoaster
+2021-06-03 18:48:32,796 - rating.py[line:200] - INFO: Add new team : 年轻人不讲码德
+2021-06-03 18:48:32,960 - rating.py[line:200] - INFO: Add new team : Ahorse
+2021-06-03 18:48:33,167 - rating.py[line:200] - INFO: Add new team : 全体起立奏国歌
+2021-06-03 18:48:33,288 - rating.py[line:216] - INFO: Update team : 怎么写都队
+2021-06-03 18:48:33,421 - rating.py[line:216] - INFO: Update team : 暖春
+2021-06-03 18:48:33,559 - rating.py[line:200] - INFO: Add new team : 单车变摩托
+2021-06-03 18:48:33,684 - rating.py[line:216] - INFO: Update team : 重振混子荣光 我辈义不容辞
+2021-06-03 18:48:33,916 - rating.py[line:200] - INFO: Add new team : 以上队伍成绩无效
+2021-06-03 18:48:34,039 - rating.py[line:216] - INFO: Update team : 昆明一日游
+2021-06-03 18:48:34,179 - rating.py[line:216] - INFO: Update team : Agile
+2021-06-03 18:48:34,328 - rating.py[line:200] - INFO: Add new team : 以一带俩
+2021-06-03 18:48:34,467 - rating.py[line:216] - INFO: Update team : 不会起队名
+2021-06-03 18:48:34,612 - rating.py[line:216] - INFO: Update team : 你只在乎你的袋鼠
+2021-06-03 18:48:34,784 - rating.py[line:200] - INFO: Add new team : 前后遍历
+2021-06-03 18:48:34,919 - rating.py[line:200] - INFO: Add new team : ZCMU-程序探索ing
+2021-06-03 18:48:35,068 - rating.py[line:216] - INFO: Update team : 妙手回春
+2021-06-03 18:48:35,203 - rating.py[line:216] - INFO: Update team : 我想吃颗辣椒
+2021-06-03 18:48:35,324 - rating.py[line:200] - INFO: Add new team : 乘风破浪的哥哥
+2021-06-03 18:48:35,452 - rating.py[line:216] - INFO: Update team : 真的来摸摸鱼
+2021-06-03 18:48:35,665 - rating.py[line:216] - INFO: Update team : 三个臭皮匠
+2021-06-03 18:48:35,787 - rating.py[line:200] - INFO: Add new team : 凌晨6点的太阳
+2021-06-03 18:48:35,920 - rating.py[line:200] - INFO: Add new team : 爆零就退役
+2021-06-03 18:48:36,056 - rating.py[line:200] - INFO: Add new team : 没有武德的年轻人
+2021-06-03 18:48:36,204 - rating.py[line:200] - INFO: Add new team : 飓风
+2021-06-03 18:48:36,327 - rating.py[line:200] - INFO: Add new team : 麦当劳贪心钓鱼
+2021-06-03 18:48:36,494 - rating.py[line:200] - INFO: Add new team : 《关于不会起队名这件事》
+2021-06-03 18:48:36,622 - rating.py[line:200] - INFO: Add new team : 小猪佩奇
+2021-06-03 18:48:36,756 - rating.py[line:200] - INFO: Add new team : 没有npy为什么不打Acm
+2021-06-03 18:48:36,877 - rating.py[line:216] - INFO: Update team : 秃头始终慢我一步
+2021-06-03 18:48:37,028 - rating.py[line:216] - INFO: Update team : 被题AK
+2021-06-03 18:48:37,166 - rating.py[line:200] - INFO: Add new team : #include＜acm>
+2021-06-03 18:48:37,330 - rating.py[line:200] - INFO: Add new team : 恭迎龙王回去ac
+2021-06-03 18:48:37,461 - rating.py[line:200] - INFO: Add new team : 哈哈哈
+2021-06-03 18:48:37,629 - rating.py[line:216] - INFO: Update team : 复制粘贴
+2021-06-03 18:48:37,805 - rating.py[line:216] - INFO: Update team : 萌萌耿丹兰
+2021-06-03 18:48:38,008 - rating.py[line:200] - INFO: Add new team : 砺世磨钝
+2021-06-03 18:48:38,229 - rating.py[line:200] - INFO: Add new team : 不负韶华
+2021-06-03 18:48:38,360 - rating.py[line:216] - INFO: Update team : 彳亍
+2021-06-03 18:48:38,484 - rating.py[line:200] - INFO: Add new team : 码老师，发生甚么事了
+2021-06-03 18:48:38,626 - rating.py[line:200] - INFO: Add new team : Apollo
+2021-06-03 18:48:38,759 - rating.py[line:200] - INFO: Add new team : IMU_hand_tea
+2021-06-03 18:48:38,895 - rating.py[line:200] - INFO: Add new team : 我大意了没有WA
+2021-06-03 18:48:39,043 - rating.py[line:200] - INFO: Add new team : 胖子瘦子和小男孩
+2021-06-03 18:48:39,236 - rating.py[line:200] - INFO: Add new team : 深海之眼
+2021-06-03 18:48:39,378 - rating.py[line:200] - INFO: Add new team : 52Hz的鱼
+2021-06-03 18:48:39,510 - rating.py[line:200] - INFO: Add new team : 没有女人员
+2021-06-03 18:48:39,669 - rating.py[line:216] - INFO: Update team : 斗气化马
+2021-06-03 18:48:39,916 - rating.py[line:200] - INFO: Add new team : 沉默寡言的骑士
+2021-06-03 18:48:40,049 - rating.py[line:200] - INFO: Add new team : Biao Spaceship
+2021-06-03 18:48:40,220 - rating.py[line:200] - INFO: Add new team : 求求大佬让给我们个铜牌吧
+2021-06-03 18:48:40,344 - rating.py[line:200] - INFO: Add new team : IMNU1
+2021-06-03 18:48:40,485 - rating.py[line:200] - INFO: Add new team : Pikachu Pikachu
+2021-06-03 18:48:40,617 - rating.py[line:200] - INFO: Add new team : ZCMU-公费旅游咕咕咕
+2021-06-03 18:48:40,760 - rating.py[line:216] - INFO: Update team : 接化发
+2021-06-03 18:48:40,934 - rating.py[line:200] - INFO: Add new team : Two heads are better than one
+2021-06-03 18:48:41,071 - rating.py[line:200] - INFO: Add new team : CAUC919
+2021-06-03 18:48:41,228 - rating.py[line:200] - INFO: Add new team : 农夫山泉我最甜
+2021-06-03 18:48:41,364 - rating.py[line:216] - INFO: Update team : AC亩产一千八
+2021-06-03 18:48:41,504 - rating.py[line:200] - INFO: Add new team : 戴敏昊欠我一杯奶茶
+2021-06-03 18:48:41,663 - rating.py[line:216] - INFO: Update team : 早安，打铁人
+2021-06-03 18:48:41,877 - rating.py[line:200] - INFO: Add new team : [100%] Build target
+2021-06-03 18:48:42,005 - rating.py[line:216] - INFO: Update team : 不想复习了
+2021-06-03 18:48:42,143 - rating.py[line:200] - INFO: Add new team : 社会毒打
+2021-06-03 18:48:42,278 - rating.py[line:200] - INFO: Add new team : 小王子队
+2021-06-03 18:48:42,413 - rating.py[line:216] - INFO: Update team : 我们是最biàng的
+2021-06-03 18:48:42,612 - rating.py[line:200] - INFO: Add new team : wa声一片
+2021-06-03 18:48:42,765 - rating.py[line:200] - INFO: Add new team : Servin
+2021-06-03 18:48:42,935 - rating.py[line:200] - INFO: Add new team : 我们又来爆零了
+2021-06-03 18:48:43,125 - rating.py[line:216] - INFO: Update team : 送财童子
+2021-06-03 18:48:43,263 - rating.py[line:200] - INFO: Add new team : 柯基
+2021-06-03 18:48:43,394 - rating.py[line:200] - INFO: Add new team : 锟斤拷
+2021-06-03 18:48:43,568 - rating.py[line:216] - INFO: Update team : 别打了我是酱油
+2021-06-03 18:48:43,699 - rating.py[line:200] - INFO: Add new team : IMNU2
+2021-06-03 18:48:43,861 - rating.py[line:216] - INFO: Update team : 实在不行就打得不错吧
+2021-06-03 18:48:44,002 - rating.py[line:200] - INFO: Add new team : bug生产者
+2021-06-03 18:48:44,143 - rating.py[line:200] - INFO: Add new team : 不会线段树
+2021-06-03 18:48:44,338 - rating.py[line:200] - INFO: Add new team : 划水
+2021-06-03 18:48:44,508 - rating.py[line:200] - INFO: Add new team : 明向故事
+2021-06-03 18:48:44,700 - rating.py[line:216] - INFO: Update team : C-block
+2021-06-03 18:48:44,866 - rating.py[line:200] - INFO: Add new team : ACwaa
+2021-06-03 18:48:44,997 - rating.py[line:200] - INFO: Add new team : 你们延迟开学了吗
+2021-06-03 18:48:45,184 - rating.py[line:200] - INFO: Add new team : 题出的不队
+2021-06-03 18:48:45,324 - rating.py[line:200] - INFO: Add new team : 农大掉分队
+2021-06-03 18:48:45,458 - rating.py[line:200] - INFO: Add new team : 听取wa声一片
+2021-06-03 18:48:45,595 - rating.py[line:200] - INFO: Add new team : Noncheck_in_team
+2021-06-03 18:48:45,747 - rating.py[line:200] - INFO: Add new team : 硬凑一队
+2021-06-03 18:48:45,882 - rating.py[line:200] - INFO: Add new team : 随便起一个就行了吧
+2021-06-03 18:48:46,103 - rating.py[line:200] - INFO: Add new team : IMU_HUN
+2021-06-03 18:48:46,232 - rating.py[line:200] - INFO: Add new team : ZIME XQL
+2021-06-03 18:48:46,354 - rating.py[line:200] - INFO: Add new team : 一拳一个复读机
+2021-06-03 18:48:46,487 - rating.py[line:200] - INFO: Add new team : IMNU3
+2021-06-03 18:48:46,622 - rating.py[line:200] - INFO: Add new team : OvQ
+2021-06-03 18:48:46,752 - rating.py[line:200] - INFO: Add new team : 再给楠楠子添碗饭
+2021-06-03 18:48:46,923 - rating.py[line:200] - INFO: Add new team : 烫烫烫烫烫烫烫烫烫
+2021-06-03 18:48:47,066 - rating.py[line:200] - INFO: Add new team : 阴天快乐
+2021-06-03 18:48:47,200 - rating.py[line:216] - INFO: Update team : 打完比赛去树惠园补充蛋白质
+2021-06-03 18:48:47,332 - rating.py[line:200] - INFO: Add new team : 摸到铜牌就算成功
+2021-06-03 18:48:47,466 - rating.py[line:216] - INFO: Update team : 回村搬砖
+2021-06-03 18:48:47,684 - rating.py[line:200] - INFO: Add new team : 小鲨鱼
+2021-06-03 18:48:47,850 - rating.py[line:200] - INFO: Add new team : 去春城戏水
+2021-06-03 18:48:48,049 - rating.py[line:200] - INFO: Add new team : 送人头
+2021-06-03 18:48:48,246 - rating.py[line:200] - INFO: Add new team : 香草巧克力冰淇淋
+2021-06-03 18:48:48,381 - rating.py[line:216] - INFO: Update team : 为什么不在独墅湖训练
+2021-06-03 18:48:48,571 - rating.py[line:200] - INFO: Add new team : Create new teams
+2021-06-03 18:48:48,695 - rating.py[line:200] - INFO: Add new team : SKD半人马号
+2021-06-03 18:48:48,821 - rating.py[line:200] - INFO: Add new team : 俺们凑个数
+2021-06-03 18:48:48,980 - rating.py[line:216] - INFO: Update team : 国际手势
+2021-06-03 18:48:49,161 - rating.py[line:200] - INFO: Add new team : ZwZMSHD
+2021-06-03 18:48:49,301 - rating.py[line:200] - INFO: Add new team : 从零开始的打铁生活
+2021-06-03 18:48:49,466 - rating.py[line:216] - INFO: Update team : 派大星与海绵宝宝与水母
+2021-06-03 18:48:49,597 - rating.py[line:200] - INFO: Add new team : 我的ac代码为什么错了
+2021-06-03 18:48:49,739 - rating.py[line:200] - INFO: Add new team : Why can't sleep early
+2021-06-03 18:48:49,870 - rating.py[line:200] - INFO: Add new team : 要我写代码？笑死！题都看不懂！
+2021-06-03 18:48:50,043 - rating.py[line:200] - INFO: Add new team : Rain
+2021-06-03 18:48:50,186 - rating.py[line:200] - INFO: Add new team : 我真的不会
+2021-06-03 18:48:50,352 - rating.py[line:216] - INFO: Update team : 红豆薏仁糙米汤
+2021-06-03 18:48:50,500 - rating.py[line:216] - INFO: Update team : 墨鱼吉祥物
+2021-06-03 18:48:50,646 - rating.py[line:216] - INFO: Update team : QINHANONE
+2021-06-03 18:48:50,786 - rating.py[line:200] - INFO: Add new team : 永不 AK
+2021-06-03 18:48:50,970 - rating.py[line:200] - INFO: Add new team : IMU_Banana_Li_Four
+2021-06-03 18:48:51,104 - rating.py[line:200] - INFO: Add new team : 年年有鱼
+2021-06-03 18:48:51,238 - rating.py[line:200] - INFO: Add new team : NCC50446 Crazyhorse
+2021-06-03 18:48:51,372 - rating.py[line:200] - INFO: Add new team : haust-up
+2021-06-03 18:48:51,508 - rating.py[line:200] - INFO: Add new team : spectator
+2021-06-03 18:48:51,647 - rating.py[line:200] - INFO: Add new team : 打工人
+2021-06-03 18:48:51,829 - rating.py[line:200] - INFO: Add new team : 杰哥说的都队
+2021-06-03 18:48:51,962 - rating.py[line:200] - INFO: Add new team : 当代欧拉竟在我身边
+2021-06-03 18:48:52,091 - rating.py[line:200] - INFO: Add new team : 我不想摸鱼
+2021-06-03 18:48:52,241 - rating.py[line:200] - INFO: Add new team : Three code dodos
+2021-06-03 18:48:52,391 - rating.py[line:200] - INFO: Add new team : 凌晨四点钟的我们和ICPC
+2021-06-03 18:48:52,564 - rating.py[line:216] - INFO: Update team : WA掘机
+2021-06-03 18:48:52,722 - rating.py[line:216] - INFO: Update team : 给个机会打银川
+2021-06-03 18:48:52,916 - rating.py[line:200] - INFO: Add new team : 少年先疯队
+2021-06-03 18:48:53,076 - rating.py[line:200] - INFO: Add new team : 赛后一人
+2021-06-03 18:48:53,223 - rating.py[line:200] - INFO: Add new team : 黑洞
+2021-06-03 18:48:53,423 - rating.py[line:200] - INFO: Add new team : NUAA-LSD
+2021-06-03 18:48:53,557 - rating.py[line:200] - INFO: Add new team : 一路AC
+2021-06-03 18:48:53,696 - rating.py[line:216] - INFO: Update team : 三个火枪手
+2021-06-03 18:48:53,856 - rating.py[line:216] - INFO: Update team : 让你们两个队友
+2021-06-03 18:48:54,016 - rating.py[line:200] - INFO: Add new team : scuec 女队
+2021-06-03 18:48:54,189 - rating.py[line:216] - INFO: Update team : 笨蛋
+2021-06-03 18:48:54,346 - rating.py[line:216] - INFO: Update team : 雁过留声机
+2021-06-03 18:48:54,539 - rating.py[line:216] - INFO: Update team : ZZJC2
+2021-06-03 18:48:54,683 - rating.py[line:200] - INFO: Add new team : THNU No.1
+2021-06-03 18:48:54,815 - rating.py[line:200] - INFO: Add new team : 南邮FC
+2021-06-03 18:48:54,984 - rating.py[line:200] - INFO: Add new team : 厨神
+2021-06-03 18:48:55,120 - rating.py[line:216] - INFO: Update team : 矿课
+2021-06-03 18:48:55,256 - rating.py[line:200] - INFO: Add new team : 啥也不是
+2021-06-03 18:48:55,392 - rating.py[line:200] - INFO: Add new team : 压栈
+2021-06-03 18:48:55,541 - rating.py[line:200] - INFO: Add new team : 暴力出奇迹
+2021-06-03 18:48:55,675 - rating.py[line:200] - INFO: Add new team : 机电8队
+2021-06-03 18:48:55,850 - rating.py[line:200] - INFO: Add new team : Fish is what I want
+2021-06-03 18:48:55,985 - rating.py[line:216] - INFO: Update team : 开飞机的舒克
+2021-06-03 18:48:56,121 - rating.py[line:216] - INFO: Update team : 文明用餐
+2021-06-03 18:48:56,259 - rating.py[line:200] - INFO: Add new team : haust-2
+2021-06-03 18:48:56,432 - rating.py[line:216] - INFO: Update team : 对对对队
+2021-06-03 18:48:56,624 - rating.py[line:200] - INFO: Add new team : BGTeam
+2021-06-03 18:48:56,759 - rating.py[line:216] - INFO: Update team : 喷火龙火烧杰尼龟
+2021-06-03 18:48:56,894 - rating.py[line:200] - INFO: Add new team : 犹豫就会败北
+2021-06-03 18:48:57,035 - rating.py[line:216] - INFO: Update team : 奥利给
+2021-06-03 18:48:57,183 - rating.py[line:200] - INFO: Add new team : 菜鸟互助
+2021-06-03 18:48:57,350 - rating.py[line:200] - INFO: Add new team : ZCMU-AC自动机
+2021-06-03 18:48:57,502 - rating.py[line:216] - INFO: Update team : 我先喝五升奶茶
+2021-06-03 18:48:57,686 - rating.py[line:216] - INFO: Update team : 魔眼收集列车
+2021-06-03 18:48:57,861 - rating.py[line:200] - INFO: Add new team : 四大皆空
+2021-06-03 18:48:58,036 - rating.py[line:200] - INFO: Add new team : if-else
+2021-06-03 18:48:58,273 - rating.py[line:200] - INFO: Add new team : Helloword
+2021-06-03 18:48:58,404 - rating.py[line:200] - INFO: Add new team : Accepted
+2021-06-03 18:48:58,551 - rating.py[line:200] - INFO: Add new team : Wakanda Forever
+2021-06-03 18:48:58,694 - rating.py[line:200] - INFO: Add new team : Me and my superior team mates
+2021-06-03 18:48:58,853 - rating.py[line:216] - INFO: Update team : 不讲武德
+2021-06-03 18:48:59,024 - rating.py[line:200] - INFO: Add new team : 想不出队名的队长鲨掉就好了吧
+2021-06-03 18:48:59,215 - rating.py[line:200] - INFO: Add new team : 大山坡划水大分队
+2021-06-03 18:48:59,355 - rating.py[line:216] - INFO: Update team : 古梅烧鹅
+2021-06-03 18:48:59,500 - rating.py[line:200] - INFO: Add new team : 育英十九队
+2021-06-03 18:48:59,654 - rating.py[line:200] - INFO: Add new team : Makka－Pakka
+2021-06-03 18:48:59,870 - rating.py[line:200] - INFO: Add new team : 猜我叫什么
+2021-06-03 18:49:00,045 - rating.py[line:200] - INFO: Add new team : 再A一题
+2021-06-03 18:49:00,209 - rating.py[line:200] - INFO: Add new team : 拥萌过人
+2021-06-03 18:49:00,382 - rating.py[line:200] - INFO: Add new team : 排排坐
+2021-06-03 18:49:00,557 - rating.py[line:200] - INFO: Add new team : 国家一级保护废物联队
+2021-06-03 18:49:00,720 - rating.py[line:200] - INFO: Add new team : GIG
+2021-06-03 18:49:00,897 - rating.py[line:216] - INFO: Update team : 听党指挥
+2021-06-03 18:49:01,049 - rating.py[line:200] - INFO: Add new team : 夺笋小分队
+2021-06-03 18:49:01,194 - rating.py[line:216] - INFO: Update team : 队名是啥QAQ
+2021-06-03 18:49:01,337 - rating.py[line:200] - INFO: Add new team : 3+2
+2021-06-03 18:49:01,473 - rating.py[line:200] - INFO: Add new team : Siege Lion
+2021-06-03 18:49:01,655 - rating.py[line:200] - INFO: Add new team : mqz
+2021-06-03 18:49:01,786 - rating.py[line:200] - INFO: Add new team : woshidamingxing
+2021-06-03 18:49:01,922 - rating.py[line:200] - INFO: Add new team : 西西里
+2021-06-03 18:49:02,058 - rating.py[line:200] - INFO: Add new team : 本地对了就是对了
+2021-06-03 18:49:02,247 - rating.py[line:200] - INFO: Add new team : Dark matter X
+2021-06-03 18:49:02,416 - rating.py[line:200] - INFO: Add new team : 重在参与
+2021-06-03 18:49:02,555 - rating.py[line:216] - INFO: Update team : SKD大使号
+2021-06-03 18:49:02,717 - rating.py[line:200] - INFO: Add new team : 上帝的宠儿
+2021-06-03 18:49:02,890 - rating.py[line:200] - INFO: Add new team : RainbowSix_深红劫案行动
+2021-06-03 18:49:03,058 - rating.py[line:200] - INFO: Add new team : codecompleted
+2021-06-03 18:49:03,205 - rating.py[line:216] - INFO: Update team : 柳神在我队
+2021-06-03 18:49:03,370 - rating.py[line:200] - INFO: Add new team : 芜锁胃
+2021-06-03 18:49:03,525 - rating.py[line:200] - INFO: Add new team : 三个主炮手
+2021-06-03 18:49:03,660 - rating.py[line:200] - INFO: Add new team : 苏科勇士
+2021-06-03 18:49:03,812 - rating.py[line:216] - INFO: Update team : 萌新养老团
+2021-06-03 18:49:03,982 - rating.py[line:200] - INFO: Add new team : ZZF
+2021-06-03 18:49:04,169 - rating.py[line:200] - INFO: Add new team : 钟姐脱单群
+2021-06-03 18:49:04,306 - rating.py[line:200] - INFO: Add new team : 守护全世界最好的手风琴艺术家
+2021-06-03 18:49:04,488 - rating.py[line:200] - INFO: Add new team : kamisama
+2021-06-03 18:49:04,618 - rating.py[line:200] - INFO: Add new team : 海燕山铁树
+2021-06-03 18:49:04,756 - rating.py[line:200] - INFO: Add new team : 工具人
+2021-06-03 18:49:04,930 - rating.py[line:200] - INFO: Add new team : Nergigante
+2021-06-03 18:49:05,059 - rating.py[line:200] - INFO: Add new team : 上上下下左右左右BABA
+2021-06-03 18:49:05,192 - rating.py[line:200] - INFO: Add new team : 曹妃甸里抓鸭子
+2021-06-03 18:49:05,329 - rating.py[line:200] - INFO: Add new team : 大豆酱团队
+2021-06-03 18:49:05,505 - rating.py[line:216] - INFO: Update team : 该队无法显示
+2021-06-03 18:49:05,647 - rating.py[line:200] - INFO: Add new team : 金牌收割机
+2021-06-03 18:49:05,782 - rating.py[line:216] - INFO: Update team : 不高山的呆头鹅
+2021-06-03 18:49:05,937 - rating.py[line:200] - INFO: Add new team : 妙WA种子
+2021-06-03 18:49:06,086 - rating.py[line:200] - INFO: Add new team : 摆脱世俗
+2021-06-03 18:49:06,215 - rating.py[line:200] - INFO: Add new team : 小牛向前冲
+2021-06-03 18:49:06,367 - rating.py[line:216] - INFO: Update team : AC在召唤
+2021-06-03 18:49:06,567 - rating.py[line:200] - INFO: Add new team : ACMers
+2021-06-03 18:49:06,698 - rating.py[line:200] - INFO: Add new team : 铁树开花
+2021-06-03 18:49:06,847 - rating.py[line:200] - INFO: Add new team : 爪巴队
+2021-06-03 18:49:07,000 - rating.py[line:200] - INFO: Add new team : 都行
+2021-06-03 18:49:07,133 - rating.py[line:216] - INFO: Update team : 雾里掀舟
+2021-06-03 18:49:07,332 - rating.py[line:200] - INFO: Add new team : 地理学团队
+2021-06-03 18:49:07,471 - rating.py[line:200] - INFO: Add new team : QINHANTWO
+2021-06-03 18:49:07,630 - rating.py[line:200] - INFO: Add new team : Summer snow
+2021-06-03 18:49:07,818 - rating.py[line:200] - INFO: Add new team : 冷静，别上头
+2021-06-03 18:49:08,125 - rating.py[line:200] - INFO: Add new team : tripleWang
+2021-06-03 18:49:08,275 - rating.py[line:200] - INFO: Add new team : 白给队
+2021-06-03 18:49:08,426 - rating.py[line:216] - INFO: Update team : 黑盾组
+2021-06-03 18:49:08,575 - rating.py[line:200] - INFO: Add new team : 好想吃烧烤
+2021-06-03 18:49:08,747 - rating.py[line:216] - INFO: Update team : 愿交题只有ac
+2021-06-03 18:49:08,935 - rating.py[line:200] - INFO: Add new team : 水之星
+2021-06-03 18:49:09,070 - rating.py[line:200] - INFO: Add new team : 关于一直WA却还要报名这件事
+2021-06-03 18:49:09,202 - rating.py[line:216] - INFO: Update team : 保安大队
+2021-06-03 18:49:09,363 - rating.py[line:200] - INFO: Add new team : 队名是队名
+2021-06-03 18:49:09,512 - rating.py[line:216] - INFO: Update team : 九折水瓶
+2021-06-03 18:49:09,727 - rating.py[line:200] - INFO: Add new team : Code for Peace
+2021-06-03 18:49:09,907 - rating.py[line:200] - INFO: Add new team : +Qq看海事小仙女
+2021-06-03 18:49:10,066 - rating.py[line:200] - INFO: Add new team : IMU_twinkle_twinkle
+2021-06-03 18:49:10,203 - rating.py[line:200] - INFO: Add new team : 联合舰队
+2021-06-03 18:49:10,330 - rating.py[line:200] - INFO: Add new team : 看不懂题怎么办
+2021-06-03 18:49:10,518 - rating.py[line:200] - INFO: Add new team : 凤凰山扛把子
+2021-06-03 18:49:10,737 - rating.py[line:200] - INFO: Add new team : 取名我们很认真
+2021-06-03 18:49:11,005 - rating.py[line:200] - INFO: Add new team : 李 华
+2021-06-03 18:49:11,189 - rating.py[line:200] - INFO: Add new team : ghl
+2021-06-03 18:49:11,375 - rating.py[line:216] - INFO: Update team : 菜鸡队
+2021-06-03 18:49:11,526 - rating.py[line:200] - INFO: Add new team : sword
+2021-06-03 18:49:11,645 - rating.py[line:233] - INFO: Calculate stated
+2021-06-03 18:49:11,646 - rating.py[line:60] - INFO: Calculate seed
+2021-06-03 18:49:12,091 - rating.py[line:69] - INFO: Calculate initial delta and sum_delta
+2021-06-03 18:49:16,601 - rating.py[line:78] - INFO: Calculate first inc
+2021-06-03 18:49:16,602 - rating.py[line:84] - INFO: Calculate second inc
+2021-06-03 18:49:16,602 - rating.py[line:95] - INFO: Calculate new rating
+2021-06-03 18:49:16,603 - rating.py[line:235] - INFO: Calculate finished
+2021-06-03 18:49:16,603 - rating.py[line:239] - INFO: Update new rating 0 ~ 99
+2021-06-03 18:49:29,509 - rating.py[line:239] - INFO: Update new rating 100 ~ 199
+2021-06-03 18:49:41,758 - rating.py[line:239] - INFO: Update new rating 200 ~ 299
+2021-06-03 18:49:54,466 - rating.py[line:239] - INFO: Update new rating 300 ~ 399
+2021-06-03 18:50:06,677 - rating.py[line:239] - INFO: Update new rating 400 ~ 499
+2021-06-03 18:50:19,279 - rating.py[line:239] - INFO: Update new rating 500 ~ 599
+2021-06-03 18:50:33,444 - rating.py[line:239] - INFO: Update new rating 600 ~ 699
+2021-06-03 18:50:46,920 - rating.py[line:239] - INFO: Update new rating 700 ~ 799
+2021-06-03 18:51:02,856 - rating.py[line:239] - INFO: Update new rating 800 ~ 899
+2021-06-03 18:51:05,076 - rating.py[line:184] - INFO: contest/CCPC2020Final.json start
+2021-06-03 18:51:05,120 - rating.py[line:216] - INFO: Update team : 三个顶俩
+2021-06-03 18:51:05,337 - rating.py[line:216] - INFO: Update team : 逆十字
+2021-06-03 18:51:05,500 - rating.py[line:200] - INFO: Add new team : 喵喵喵喵喵喵喵喵喵喵喵喵
+2021-06-03 18:51:05,747 - rating.py[line:216] - INFO: Update team : 差不多得了
+2021-06-03 18:51:05,989 - rating.py[line:216] - INFO: Update team : Cirtrus
+2021-06-03 18:51:06,297 - rating.py[line:216] - INFO: Update team : 戳戳让戳戳别戳戳戳
+2021-06-03 18:51:06,568 - rating.py[line:216] - INFO: Update team : Solitary Dream
+2021-06-03 18:51:06,728 - rating.py[line:200] - INFO: Add new team : 腾讯代表队
+2021-06-03 18:51:06,986 - rating.py[line:216] - INFO: Update team : 幽灵乐团
+2021-06-03 18:51:07,161 - rating.py[line:216] - INFO: Update team : 二环己基碳二亚胺
+2021-06-03 18:51:07,471 - rating.py[line:216] - INFO: Update team : 一塔湖图
+2021-06-03 18:51:07,628 - rating.py[line:216] - INFO: Update team : 中山大学_午餐奶
+2021-06-03 18:51:07,925 - rating.py[line:216] - INFO: Update team : 世末鸽者
+2021-06-03 18:51:08,312 - rating.py[line:200] - INFO: Add new team : 旷视代表队
+2021-06-03 18:51:08,490 - rating.py[line:216] - INFO: Update team : 零叉八C
+2021-06-03 18:51:08,676 - rating.py[line:216] - INFO: Update team : 新月玫瑰
+2021-06-03 18:51:08,874 - rating.py[line:216] - INFO: Update team : 星辰闪耀
+2021-06-03 18:51:09,054 - rating.py[line:216] - INFO: Update team : 超高校级的打铁爆零
+2021-06-03 18:51:09,356 - rating.py[line:216] - INFO: Update team : 师傅把妖怪抓走了
+2021-06-03 18:51:09,499 - rating.py[line:216] - INFO: Update team : 降维打击
+2021-06-03 18:51:09,694 - rating.py[line:216] - INFO: Update team : 小喵喵不喜欢计算几何
+2021-06-03 18:51:09,840 - rating.py[line:216] - INFO: Update team : 芜湖菜
+2021-06-03 18:51:09,988 - rating.py[line:216] - INFO: Update team : 正道的光
+2021-06-03 18:51:10,171 - rating.py[line:200] - INFO: Add new team : 三带一
+2021-06-03 18:51:10,315 - rating.py[line:216] - INFO: Update team : 五点共圆
+2021-06-03 18:51:10,462 - rating.py[line:216] - INFO: Update team : 图一乐
+2021-06-03 18:51:10,641 - rating.py[line:216] - INFO: Update team : 庆大包与摩托车维修艺术
+2021-06-03 18:51:11,048 - rating.py[line:200] - INFO: Add new team : 站着挣钱
+2021-06-03 18:51:11,194 - rating.py[line:216] - INFO: Update team : SCAU_鬼火一响
+2021-06-03 18:51:11,489 - rating.py[line:200] - INFO: Add new team : 加力燃烧器
+2021-06-03 18:51:11,675 - rating.py[line:216] - INFO: Update team : 红日初升
+2021-06-03 18:51:11,893 - rating.py[line:216] - INFO: Update team : 中山大学_无人之境
+2021-06-03 18:51:12,053 - rating.py[line:216] - INFO: Update team : 南方科技大学-断裂光纤
+2021-06-03 18:51:12,228 - rating.py[line:216] - INFO: Update team : ACM太难玩了
+2021-06-03 18:51:12,399 - rating.py[line:200] - INFO: Add new team : 西海为期
+2021-06-03 18:51:12,536 - rating.py[line:216] - INFO: Update team : 辛几何旋律
+2021-06-03 18:51:12,751 - rating.py[line:216] - INFO: Update team : 四面杵鸽
+2021-06-03 18:51:13,069 - rating.py[line:200] - INFO: Add new team : 艾斯踹踹-都心
+2021-06-03 18:51:13,234 - rating.py[line:216] - INFO: Update team : 我先放一盒卫生纸在这
+2021-06-03 18:51:13,374 - rating.py[line:216] - INFO: Update team : 伊丽莎白
+2021-06-03 18:51:13,611 - rating.py[line:216] - INFO: Update team : 三个队友跑了
+2021-06-03 18:51:13,768 - rating.py[line:200] - INFO: Add new team : 几何冲刺
+2021-06-03 18:51:13,931 - rating.py[line:216] - INFO: Update team : 马拉车拉马
+2021-06-03 18:51:14,093 - rating.py[line:216] - INFO: Update team : 吾有一數，名之曰「誒」
+2021-06-03 18:51:14,250 - rating.py[line:216] - INFO: Update team : 罚时要罚到无穷
+2021-06-03 18:51:14,436 - rating.py[line:200] - INFO: Add new team : 企鹅人2077
+2021-06-03 18:51:14,582 - rating.py[line:216] - INFO: Update team : 自由泳
+2021-06-03 18:51:14,746 - rating.py[line:216] - INFO: Update team : 似乎是梦里的星光闪烁
+2021-06-03 18:51:15,049 - rating.py[line:216] - INFO: Update team : 机械化就输不了
+2021-06-03 18:51:15,226 - rating.py[line:216] - INFO: Update team : 纯阳天团
+2021-06-03 18:51:15,405 - rating.py[line:216] - INFO: Update team : 春田花花幼儿园
+2021-06-03 18:51:15,566 - rating.py[line:216] - INFO: Update team : 致命膜术
+2021-06-03 18:51:15,726 - rating.py[line:200] - INFO: Add new team : 可持久化键盘冒鸽
+2021-06-03 18:51:15,868 - rating.py[line:216] - INFO: Update team : 炼金术士
+2021-06-03 18:51:16,023 - rating.py[line:200] - INFO: Add new team : 快手代表队
+2021-06-03 18:51:16,201 - rating.py[line:216] - INFO: Update team : 童话术士
+2021-06-03 18:51:16,338 - rating.py[line:216] - INFO: Update team : 末日时在做什么？有没有空？可以来WA一发吗？
+2021-06-03 18:51:16,473 - rating.py[line:216] - INFO: Update team : Icdereap
+2021-06-03 18:51:16,620 - rating.py[line:216] - INFO: Update team : 我已经五分钟没有听到小姐姐的故事了
+2021-06-03 18:51:16,880 - rating.py[line:216] - INFO: Update team : 小狗不开魔免BKB
+2021-06-03 18:51:17,073 - rating.py[line:200] - INFO: Add new team : 跑路工人再就业
+2021-06-03 18:51:17,234 - rating.py[line:216] - INFO: Update team : 蹦蹦炸弹
+2021-06-03 18:51:17,389 - rating.py[line:216] - INFO: Update team : AC钙奶
+2021-06-03 18:51:17,536 - rating.py[line:216] - INFO: Update team : 我全都要
+2021-06-03 18:51:17,692 - rating.py[line:216] - INFO: Update team : 南方科技大学-楚格
+2021-06-03 18:51:17,919 - rating.py[line:200] - INFO: Add new team : 喝牛奶拿铁
+2021-06-03 18:51:18,111 - rating.py[line:216] - INFO: Update team : 放着一天一百的高薪工作不干回来打CCPC
+2021-06-03 18:51:18,267 - rating.py[line:216] - INFO: Update team : 第1226564个质数
+2021-06-03 18:51:18,407 - rating.py[line:200] - INFO: Add new team : 魔术师
+2021-06-03 18:51:18,553 - rating.py[line:216] - INFO: Update team : 打完这场就起飞
+2021-06-03 18:51:18,732 - rating.py[line:200] - INFO: Add new team : 你天语断了
+2021-06-03 18:51:18,863 - rating.py[line:216] - INFO: Update team : 懂的都懂
+2021-06-03 18:51:19,033 - rating.py[line:216] - INFO: Update team : 可莉跳水
+2021-06-03 18:51:19,186 - rating.py[line:216] - INFO: Update team : SWU_New
+2021-06-03 18:51:19,479 - rating.py[line:216] - INFO: Update team : 最后一舞
+2021-06-03 18:51:19,629 - rating.py[line:200] - INFO: Add new team : endgame
+2021-06-03 18:51:19,769 - rating.py[line:216] - INFO: Update team : 地球猫猫
+2021-06-03 18:51:19,909 - rating.py[line:200] - INFO: Add new team : 明治17年的上海爱丽丝
+2021-06-03 18:51:20,065 - rating.py[line:216] - INFO: Update team : autowa
+2021-06-03 18:51:20,253 - rating.py[line:216] - INFO: Update team : 一斤甲鱼
+2021-06-03 18:51:20,413 - rating.py[line:216] - INFO: Update team : 啊，这
+2021-06-03 18:51:20,719 - rating.py[line:216] - INFO: Update team : 锅锅锅
+2021-06-03 18:51:21,142 - rating.py[line:216] - INFO: Update team : 路人ACMer的养成方法
+2021-06-03 18:51:21,395 - rating.py[line:200] - INFO: Add new team : 不知道
+2021-06-03 18:51:21,598 - rating.py[line:216] - INFO: Update team : 北林三十八队
+2021-06-03 18:51:22,029 - rating.py[line:200] - INFO: Add new team : 长夜漫漫
+2021-06-03 18:51:22,210 - rating.py[line:216] - INFO: Update team : 世界最后之日
+2021-06-03 18:51:22,466 - rating.py[line:216] - INFO: Update team : 本地过了就是过了
+2021-06-03 18:51:22,629 - rating.py[line:200] - INFO: Add new team : NEUQer
+2021-06-03 18:51:22,874 - rating.py[line:216] - INFO: Update team : 未来道具研究所
+2021-06-03 18:51:23,102 - rating.py[line:216] - INFO: Update team : 比赛要笑着打
+2021-06-03 18:51:23,481 - rating.py[line:216] - INFO: Update team : ALPC_作风优良
+2021-06-03 18:51:23,699 - rating.py[line:216] - INFO: Update team : 有手就行
+2021-06-03 18:51:23,836 - rating.py[line:216] - INFO: Update team : 我们不是撒网摸鱼
+2021-06-03 18:51:23,979 - rating.py[line:200] - INFO: Add new team : 冰冻伏特
+2021-06-03 18:51:24,118 - rating.py[line:216] - INFO: Update team : 签到题怎么做啊
+2021-06-03 18:51:24,256 - rating.py[line:216] - INFO: Update team : 济鸽
+2021-06-03 18:51:24,437 - rating.py[line:216] - INFO: Update team : 屑acmer的打铁之旅
+2021-06-03 18:51:24,606 - rating.py[line:216] - INFO: Update team : 广告位招租
+2021-06-03 18:51:24,808 - rating.py[line:200] - INFO: Add new team : 清楚姐姐粉丝后援会
+2021-06-03 18:51:25,077 - rating.py[line:216] - INFO: Update team : 三个拉胯
+2021-06-03 18:51:25,297 - rating.py[line:216] - INFO: Update team : 铁牌镀铜
+2021-06-03 18:51:25,573 - rating.py[line:216] - INFO: Update team : 连牌子都保不住，怎么保护丘丘人
+2021-06-03 18:51:25,814 - rating.py[line:216] - INFO: Update team : 发落皈依，卿容犹记
+2021-06-03 18:51:26,048 - rating.py[line:200] - INFO: Add new team : 咕咕咕
+2021-06-03 18:51:26,289 - rating.py[line:216] - INFO: Update team : 从鸭绿江到三八线
+2021-06-03 18:51:26,580 - rating.py[line:200] - INFO: Add new team : 瓜皮瓜皮瓜
+2021-06-03 18:51:26,840 - rating.py[line:200] - INFO: Add new team : 背后的故事令人暖心
+2021-06-03 18:51:27,093 - rating.py[line:200] - INFO: Add new team : 今天拿铁半价
+2021-06-03 18:51:27,297 - rating.py[line:200] - INFO: Add new team : 打字机唱得好
+2021-06-03 18:51:27,458 - rating.py[line:200] - INFO: Add new team : 提瓦特的指名者
+2021-06-03 18:51:27,692 - rating.py[line:200] - INFO: Add new team : ;("dlrow olleh")stup
+2021-06-03 18:51:27,890 - rating.py[line:216] - INFO: Update team : 可乐鸡
+2021-06-03 18:51:28,101 - rating.py[line:216] - INFO: Update team : 一提交就知道老WA了
+2021-06-03 18:51:28,405 - rating.py[line:216] - INFO: Update team : 真的来摸摸鱼
+2021-06-03 18:51:28,778 - rating.py[line:200] - INFO: Add new team : CUC观光团
+2021-06-03 18:51:28,943 - rating.py[line:200] - INFO: Add new team : 进京赶考
+2021-06-03 18:51:29,162 - rating.py[line:216] - INFO: Update team : 给我多整几个
+2021-06-03 18:51:29,376 - rating.py[line:233] - INFO: Calculate stated
+2021-06-03 18:51:29,376 - rating.py[line:60] - INFO: Calculate seed
+2021-06-03 18:51:29,386 - rating.py[line:69] - INFO: Calculate initial delta and sum_delta
+2021-06-03 18:51:29,517 - rating.py[line:78] - INFO: Calculate first inc
+2021-06-03 18:51:29,517 - rating.py[line:84] - INFO: Calculate second inc
+2021-06-03 18:51:29,517 - rating.py[line:95] - INFO: Calculate new rating
+2021-06-03 18:51:29,518 - rating.py[line:235] - INFO: Calculate finished
+2021-06-03 18:51:29,518 - rating.py[line:239] - INFO: Update new rating 0 ~ 99
+2021-06-03 18:51:46,044 - rating.py[line:239] - INFO: Update new rating 100 ~ 199
